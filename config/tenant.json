@@ -1,6 +1,6 @@
 {
-  "title": "REPLACE ME > Developer Studio",
-  "name": "REPLACE ME > DeveloperPortal",
+  "title": "Design Center",
+  "name": "DesignCenter",
   "brand": "Fiserv",
   "brandLogoURL": "https://raw.githubusercontent.com/Fiserv/Developer-Portal-Tenant-API/develop/assets/images/Fiserv_Logo.jpg",
   "solution": ["fiserv-developer-resources"],
