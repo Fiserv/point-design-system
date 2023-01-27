@@ -28,43 +28,50 @@
 # the delivery of this work
 ################################################################################
 header:
-  productName: REPLACEME
-  productionDescription: REPLACEME
-  whoIsItFor: REPLACEME
-  image: 
-    link: "/assets/images/Fiserv_Logo.jpg"
-    altText: REPLACEME™
+  productionDescription: Design center product for Fiserv teams to loan.
+getStarted: "docs/getting-started.md"
+benefits:
+  - title: Transform
+    description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+  - title: Accelerate
+    description: Intelligent design system
+  - title: Optimize
+    description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+guides:
+  - title: How to create API key
+    description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+    link: docs/release-notes/2022/march.md
+  - title: How to create Merchant ID
+    description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+    link: docs/documentation/documentation.md
 featuredFeatures:
-  - title: REPLACE ME
-    description:  REPLACE ME
-    tags: ["REPLACEME", "REPLACEME", "REPLACEME"]
-    bullets: ["REPLACEME", "REPLACEME" ]  
+  - title: Featured Product Offering
+    description:  Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+    groupName: Group Title
+    featured: true
     relatedDocs:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
         link: ./docs/REPLACE-ME1.md
-      - relatedDoc: 
-        title: REPLACEME
-        description: REPLACEME
-        link: ./docs/REPLACE-ME2.md
-      - relatedDoc: 
-        title: REPLACEME
-        description: REPLACEME
-        link: ./docs/REPLACE-ME3.md
     relatedAPIs:
       - relatedAPI: 
         title: REPLACEME
         description: REPLACEME
         type: "patch"        
         path: "/v1/REPLACEME1"
+  - title: Product Offering
+    description:  Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+    groupName: Another Group Title
+    featured: false
+    relatedDocs:
+      - relatedDoc: 
+        title: REPLACEME
+        description: REPLACEME
+        link: ./docs/REPLACE-ME1.md
+    relatedAPIs:
       - relatedAPI: 
         title: REPLACEME
         description: REPLACEME
-        type: "post"        
-        path: "/v1/REPLACEME2"
-      - relatedAPI: 
-        title: REPLACEME
-        description: REPLACEME
-        type: "get"        
-        path: "/v1/REPLACEME3"
+        type: "patch"        
+        path: "/v1/REPLACEME1"
