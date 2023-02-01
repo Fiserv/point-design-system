@@ -29,7 +29,7 @@
 ################################################################################
 header:
   productionDescription: Design center product for Fiserv teams to loan.
-getStarted: "docs/getting-started.md"
+# getStarted: "docs/getting-started.md"
 benefits:
   - title: Transform
     description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
