@@ -4,6 +4,8 @@
 
 Flash design system by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first. Using rigorous research into users’ needs and desires, Flash is laser-focused on real people.
 
+</br>
+
 ### User-Centered Efficiency
 
 Our design system is rooted in user-centric principles, focusing on efficiency and productivity. We aim to create interfaces that streamline processes, reduce friction, and empower users to accomplish their tasks with ease.
@@ -27,6 +29,8 @@ Accessibility is a non-negotiable aspect of our design ethos. We are committed t
 ### Collaboration and Feedback
 
 We encourage collaboration between designers, developers, and stakeholders. User feedback and iterative design processes are fundamental to our approach, allowing us to continuously refine and enhance the design system.
+
+</br>
 
 ## Getting access to Figma
 
