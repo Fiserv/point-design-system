@@ -32,6 +32,20 @@
   - title: Getting Started
     link: docs/getting-started.md
 - sections:
+  - title: Foundations
+- sections:
+  - title: Components
+- sections:
+  - title: Patterns
+- sections:
+  - title: Icons
+- sections:
+  - title: Contributing
+    sections:
+    - title: Overview
+    - title: Component request
+    - title: Feedback
+- sections:
   - title: Release notes
     sections:
     - title: March 2022
