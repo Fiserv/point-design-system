@@ -42,7 +42,7 @@ You should be added to the IBM Figma organization automatically once you sign in
 
 You should be added to the Fiserv Figma organization automatically once you sign in. You do not need to join or request to join any specific team to access the Flash Design System.
 
-<img src="./assets/images/placeholder.jpg" alt="Placeholder" style="max-width: 50%;" width="400">
+<img src="/assets/images/placeholder.jpg" alt="Placeholder" style="max-width: 50%;" width="400">
 ___
 
 
