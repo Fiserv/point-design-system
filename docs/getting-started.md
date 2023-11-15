@@ -1,5 +1,7 @@
 # Getting Started
 
+</br>
+
 ## Design Ethos
 
 Flash design system by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first. Using rigorous research into users’ needs and desires, Flash is laser-focused on real people.
