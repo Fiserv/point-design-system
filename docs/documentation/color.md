@@ -18,7 +18,7 @@ Our brand colors are widely used across the site on various components, headline
 
 For accessibility, we utilize a secondary palette for text on darker backgrounds.
 
-<img src="/assets/images/foundations/color-secoundary.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
+<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
 
 </br>
 
@@ -55,7 +55,7 @@ Our category colors are used to visually group, classify, or filter criteria, al
 
 In the context of API documentation or development tools, the use of different colors can make it easier for developers or users to identify and understand the purpose or nature of each tag.
 
-<img src="/assets/images/foundations/color-endpoints.jpgg" alt="Placeholder" style="max-width: 100%;" width="400">
+<img src="/assets/images/foundations/color-endpoints.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
 
 </br>
 
