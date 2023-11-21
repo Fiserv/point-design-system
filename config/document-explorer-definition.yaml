@@ -34,87 +34,87 @@
 - sections:
   - title: Foundations
     link: docs/documentation/foundations.md
-      sections:
-      - title: Color
-        link: docs/documentation/color.md
-      - title: Typography
-        link: docs/documentation/typography.md
-      - title: Spacing
-        link: docs/documentation/spacing.md
-      - title: Elevation
-        link: docs/documentation/elevation.md
-      - title: Logo
-        link: docs/documentation/logo.md
+    sections:
+    - title: Color
+      link: docs/documentation/color.md
+    - title: Typography
+      link: docs/documentation/typography.md
+    - title: Spacing
+      link: docs/documentation/spacing.md
+    - title: Elevation
+      link: docs/documentation/elevation.md
+    - title: Logo
+      link: docs/documentation/logo.md
 - sections:
   - title: Components
     link: docs/documentation/components.md
-      sections:
-      - title: Accordion
-        link: docs/documentation/accordion.md
-      - title: Breadcrumb
-        link: docs/documentation/breadcrumb.md
-      - title: Button
-        link: docs/documentation/button.md
-      - title: Carousel
-        link: docs/documentation/carousel.md
-      - title: Checkbox
-        link: docs/documentation/checkbox.md
-      - title: Content Switcher
-        link: docs/documentation/content-switcher.md
-      - title: Divider
-        link: docs/documentation/divider.md
-      - title: Dropdown
-        link: docs/documentation/dropdown.md
-      - title: In-page Navigation
-        link: docs/documentation/inpage-navigation.md
-      - title: Modal
-        link: docs/documentation/modal.md
-      - title: Notification
-        link: docs/documentation/notification.md
-      - title: Placeholder
-        link: docs/documentation/placeholder.md
-      - title: Radio
-        link: docs/documentation/radio.md
-      - title: Search
-        link: docs/documentation/search.md
-      - title: Tabs
-        link: docs/documentation/tabs.md
-      - title: Tag
-        link: docs/documentation/tag.md
-      - title: Text Area
-        link: docs/documentation/text-area.md
-      - title: Text Input
-        link: docs/documentation/text-input.md
-      - title: Text Links
-        link: docs/documentation/text-links.md
-      - title: Toggle
-        link: docs/documentation/toggle.md
-      - title: Tooltip
-        link: docs/documentation/tooltip.md
+    sections:
+    - title: Accordion
+      link: docs/documentation/accordion.md
+    - title: Breadcrumb
+      link: docs/documentation/breadcrumb.md
+    - title: Button
+      link: docs/documentation/button.md
+    - title: Carousel
+      link: docs/documentation/carousel.md
+    - title: Checkbox
+      link: docs/documentation/checkbox.md
+    - title: Content Switcher
+      link: docs/documentation/content-switcher.md
+    - title: Divider
+      link: docs/documentation/divider.md
+    - title: Dropdown
+      link: docs/documentation/dropdown.md
+    - title: In-page Navigation
+      link: docs/documentation/inpage-navigation.md
+    - title: Modal
+      link: docs/documentation/modal.md
+    - title: Notification
+      link: docs/documentation/notification.md
+    - title: Placeholder
+      link: docs/documentation/placeholder.md
+    - title: Radio
+      link: docs/documentation/radio.md
+    - title: Search
+      link: docs/documentation/search.md
+    - title: Tabs
+      link: docs/documentation/tabs.md
+    - title: Tag
+      link: docs/documentation/tag.md
+    - title: Text Area
+      link: docs/documentation/text-area.md
+    - title: Text Input
+      link: docs/documentation/text-input.md
+    - title: Text Links
+      link: docs/documentation/text-links.md
+    - title: Toggle
+      link: docs/documentation/toggle.md
+    - title: Tooltip
+      link: docs/documentation/tooltip.md
 - sections:
   - title: Patterns
     link: docs/documentation/patterns.md
     sections:
-      - title: Card
-        link: docs/documentation/card.md
-      - title: Charts
-        link: docs/documentation/charts.md
-      - title: Code Snippet
-        link: docs/documentation/code-snippet.md
-      - title: Footer
-        link: docs/documentation/footer.md
-      - title: Global Navigation
-        link: docs/documentation/global-navigation.md
-      - title: Mega Menu
-        link: docs/documentation/mega-menu.md
-      - title: Pagination
-        link: docs/documentation/pagination.md
-      - title: Progress Indicator
-        link: docs/documentation/progress-indicator.md
-      - title: Side Navigation
-        link: docs/documentation/side-navigation.md
-      - title: Table
-        link: docs/documentation/table.md
+    - title: Card
+      link: docs/documentation/card.md
+    - title: Charts
+      link: docs/documentation/charts.md
+    - title: Code Snippet
+      link: docs/documentation/code-snippet.md
+    - title: Footer
+      link: docs/documentation/footer.md
+    - title: Global Navigation
+      link: docs/documentation/global-navigation.md
+    - title: Mega Menu
+      link: docs/documentation/mega-menu.md
+    - title: Pagination
+      link: docs/documentation/pagination.md
+    - title: Progress Indicator
+      link: docs/documentation/progress-indicator.md
+    - title: Side Navigation
+      link: docs/documentation/side-navigation.md
+    - title: Table
+      link: docs/documentation/table.md
 - sections:
   - title: Icons
     link: docs/documentation/icons.md
