@@ -10,7 +10,7 @@ Color is a fundamental element in the visual language of the Pointe Design Syste
 
 Our brand colors are widely used across the site on various components, headline text, buttons, and text links.
 
-<img src="/assets/images/foundations/color-primary.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
+<img src="/assets/images/foundations/color-primary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
 </br>
 
@@ -18,6 +18,7 @@ Our brand colors are widely used across the site on various components, headline
 
 For accessibility, we utilize a secondary palette for text on darker backgrounds.
 
+<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 <img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
 
 </br>
@@ -31,7 +32,7 @@ Body Copy Guidance:
 - Gray 100–400: Suitable for text on dark backgrounds.
 - Gray 500: Suitable for both light and dark backgrounds, but text must be 24px or larger.
 
-<img src="/assets/images/foundations/color-grayscale.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
+<img src="/assets/images/foundations/color-grayscale.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
 </br>
 
@@ -39,7 +40,7 @@ Body Copy Guidance:
 
 Our action palette is utilized for notifications, warnings, and confirmations.
 
-<img src="/assets/images/foundations/color-action.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
+<img src="/assets/images/foundations/color-action.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
 </br>
 
@@ -47,7 +48,7 @@ Our action palette is utilized for notifications, warnings, and confirmations.
 
 Our category colors are used to visually group, classify, or filter criteria, allowing you to easily identify and group associated items.
 
-<img src="/assets/images/foundations/color-category.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
+<img src="/assets/images/foundations/color-category.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
 </br>
 
@@ -55,7 +56,7 @@ Our category colors are used to visually group, classify, or filter criteria, al
 
 In the context of API documentation or development tools, the use of different colors can make it easier for developers or users to identify and understand the purpose or nature of each tag.
 
-<img src="/assets/images/foundations/color-endpoints.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
+<img src="/assets/images/foundations/color-endpoints.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
 </br>
 
@@ -63,6 +64,6 @@ In the context of API documentation or development tools, the use of different c
 
 Our filter colors provide a visual cue that helps users distinguish between different types of elements quickly and easily.
 
-<img src="/assets/images/foundations/color-filter.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
+<img src="/assets/images/foundations/color-filter.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
 ___
