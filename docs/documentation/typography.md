@@ -21,12 +21,12 @@ The Univers for Fiserv font family is available in three weights: Light, Regular
 The Univers for Fiserv is the preferred font to be used in digital assets at Fiserv.
 
 | STYLE NAME | WEIGHT | Capitalization | FONT SIZE | LINE WEIGHT | SAMPLE |
-| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| Elevation-0   | N/A   | N/A   | N/A   | N/A   | N/A   | N/A   |
-| Elevation-1  | 0E0E0E  | BFBFBF  | 0  | 1  | 4  | 0.20  |
-| Elevation-2  | 0E0E0E  | BFBFBF  | 0  | 2  | 8  | 0.20  |
-| Elevation-3  | 0E0E0E  | BFBFBF  | 0  | 3  | 16  | 0.20  |
-| Elevation-4  | 0E0E0E  | BFBFBF  | 0  | 4  | 16  | 0.35  |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| Heading 1 | Bold | N/A   | N/A   | N/A   | N/A   |
+| Heading 2  | 0E0E0E  | BFBFBF  | 0  | 1  | 4  |
+| Heading 3  | 0E0E0E  | BFBFBF  | 0  | 2  | 8  |
+| Heading 4  | 0E0E0E  | BFBFBF  | 0  | 3  | 16  |
+| Heading 5  | 0E0E0E  | BFBFBF  | 0  | 4  | 16  |
 
 </br>
 
