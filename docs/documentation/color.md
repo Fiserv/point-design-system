@@ -19,7 +19,6 @@ Our brand colors are widely used across the site on various components, headline
 For accessibility, we utilize a secondary palette for text on darker backgrounds.
 
 <img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="400">
 
 </br>
 
