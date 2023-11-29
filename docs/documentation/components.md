@@ -8,9 +8,9 @@ Components are the reusable building blocks of our design system. Each component
 
 ## Components
 
-| Header 1 | Header 2 | Header 3 |
-| -------- | -------- | -------- |
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
+| FOUNDATION | DESCRIPTION |
+| -------- | -------- |
+| Color   | Color is a fundamental element in the visual language of the Pointe Design System by Fiserv, playing a crucial role in creating consistent experiences across various contexts within Fiserv.   |
+| Elevation   | Elevation utilizes shadows and blurs to create a layered effect, offering users a visual cue that an object or experience is 'elevated' in priority or hierarchy.   |
 
 ___
