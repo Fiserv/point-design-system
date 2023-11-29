@@ -7,4 +7,9 @@ Foundations are the core of the system, encapsulating the brand's principles and
 </br>
 
 ## Foundations
+
+| Syntax      | Description |
+| :----------- | :----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 ___
