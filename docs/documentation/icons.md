@@ -10,15 +10,25 @@ Pointe Design System uses icons to provide additional meaning or in places where
 
 ### How to get icons
 
-<font color="black">Github Repository</font> </br>
+<font color="black">Github Repository</font>
+
+</br>
 
 You can open this link to find our icon collections and download in Github Repository. Pointe Design System offers SVG format for icons.
 
-No access to Github Repository?
+</br>
+
+<font color="black">No access to Github Repository?</font>
+
+</br>
 
 No problem. You can use download our icon collections.
 
-Find the icons by usage
+</br>
+
+<font color="black">Find the icons by usage</font>
+
+</br>
 
 All icons are organized by usage for your convenience.
 
