@@ -25,6 +25,16 @@ Each space token should replace raw pixel or REM values when adding space betwee
 | Space-2   | 2  | 0.125  | ▎  |
 | Space-3   | 4  | 0.25  | ▌  |
 | Space-4   | 8 (Base size) | 0.5  | █  |
-| Space-5   | 12  | 0.75  | ▊▊  |
-
+| Space-5   | 12  | 0.75  | █▍  |
+| Space-6   | 16  | 1  | ██  |
+| Space-7   | 24  | 1.5  | ███  |
+| Space-8   | 32 | 2  | ████  |
+| Space-9   | 40  | 2.5  | █████  |
+| Space-10   | 48  | 3  | ██████  |
+| Space-11   | 64  | 4  | ████████  |
+| Space-12   | 80 | 5  | ██████████  |
+| Space-13   | 96  | 6  | ████████████  |
+| Space-14   | 112  | 7  | ██████████████  |
+| Space-15   | 128 | 8  | ████████████████ |
+| Space-16   | 160  | 10  | ████████████████████  |
 ___
