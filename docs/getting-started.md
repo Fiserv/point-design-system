@@ -4,13 +4,13 @@
 
 ## Design Ethos
 
-Flash design system by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first. Using rigorous research into users’ needs and desires, Flash is laser-focused on real people.
+The Pointe Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
 
 </br>
 
 ### User-Centered Efficiency
 
-Our design system is rooted in user-centric principles, focusing on efficiency and productivity. We aim to create interfaces that streamline processes, reduce friction, and empower users to accomplish their tasks with ease.
+The Pointe Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity. We aim to create interfaces that streamline processes, minimize friction, and empower users to accomplish their tasks with ease.
 
 ### Clarity and consistency
 
@@ -18,11 +18,11 @@ Clarity and consistency are paramount in our design system. We prioritize clean,
 
 ### Data-Driven Design
 
-In the enterprise context, data is crucial. Our design ethos values data-driven decision-making, ensuring that our interfaces present information in a meaningful, actionable way. We leverage analytics to continuously improve the user experience.
+In the enterprise context, data is crucial. Our design ethos values data-driven decision-making, ensuring that our interfaces present information in a meaningful and actionable way. We leverage analytics to continuously enhance the user experience.
 
 ### Scalability
 
-Recognizing the complexity of enterprise solutions, our design system is built for scalability. It provides a flexible framework that can accommodate a wide range of features, modules, and data sets, while maintaining a cohesive user experience.
+Recognizing the complexity of enterprise solutions, our design system is built for scalability. It offers a flexible framework that can accommodate a wide range of features, modules, and data sets while maintaining a cohesive user experience.
 
 ### Accessibility for All
 
@@ -30,7 +30,7 @@ Accessibility is a non-negotiable aspect of our design ethos. We are committed t
 
 ### Collaboration and Feedback
 
-We encourage collaboration between designers, developers, and stakeholders. User feedback and iterative design processes are fundamental to our approach, allowing us to continuously refine and enhance the design system.
+We encourage collaboration among designers, developers, and stakeholders. User feedback and iterative design processes are fundamental to our approach, enabling us to continuously refine and enhance the design system.
 
 </br>
 
@@ -38,15 +38,19 @@ We encourage collaboration between designers, developers, and stakeholders. User
 
 ### Get the libraries
 
-Flash design system by Fiserv is for internal use only and contains all resources you need to get started. You should be added to the Fiserv Figma organization automatically once you sign in. You do not need to join or request to join any specific team to access the libraries.
+The Pointe Design System by Fiserv is intended for internal use only and includes all the resources you need to get started. Once you sign in, you should be automatically added to the Fiserv Figma organization. There's no need to join or request access to any specific team to access the libraries.
 
 #### 1. Open Figma
 
-You should be added to the IBM Figma organization automatically once you sign in. You do not need to join or request to join any specific team to access the libraries.
+You will be added to the Fiserv Figma organization automatically upon signing in. There's no need to join or request access to any specific team to access the libraries.
 
-#### 2. Turn on the Flash Design System
+#### 2. Turn on the Pointe Design System
 
-You should be added to the Fiserv Figma organization automatically once you sign in. You do not need to join or request to join any specific team to access the Flash Design System.
+Inside of a design file, click the Figma icon in the top left of the toolbar. Open the menu and select Libraries from the list.
+
+<img src="/assets/images/placeholder.jpg" alt="Placeholder" style="max-width: 50%;" width="400">
+
+Then in the Libraries modal that appears, type in "Digital Transformation Design System" and click "Add to file" button.
 
 <img src="/assets/images/placeholder.jpg" alt="Placeholder" style="max-width: 50%;" width="400">
 ___
