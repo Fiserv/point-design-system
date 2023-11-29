@@ -9,9 +9,9 @@ Typography is a deliberate system of letters, numbers, and characters. Good typo
 
 The Univers for Fiserv font family is available in three weights: Light, Regular and Bold.
 
-- Universe for Fiserv - Light
-- Universe for Fiserv - Regular
-- Universe for Fiserv - Bold
+- <span style="font-family:universe for fiserv; font-size:4em;">Universe for Fiserv - Light</span>
+- <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>Universe for Fiserv - Regular
+- <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>Universe for Fiserv - Bold
 
 </br>
 
