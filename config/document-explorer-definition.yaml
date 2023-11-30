@@ -33,7 +33,7 @@
     link: docs/getting-started.md
 - sections:
   - title: Foundations
-    link: docs/documentation/foundations.md
+    # link: docs/documentation/foundations.md
     sections:
     - title: Color
       link: docs/documentation/color.md
