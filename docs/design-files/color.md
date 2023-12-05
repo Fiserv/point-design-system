@@ -10,7 +10,6 @@ Color is a fundamental element in the visual language of the Pointe Design Syste
 
 Our brand colors are widely used across the site on various components, headline text, buttons, and text links.
 
-![Primarycolor](../../assets/images/foundations/color-primary.jpg =x752)
 <img src="../../assets/images/foundations/color-primary.jpg" alt="Primarycolor" width="752"/>
 
 </br>
@@ -19,7 +18,7 @@ Our brand colors are widely used across the site on various components, headline
 
 For accessibility, we utilize a secondary palette for text on darker backgrounds.
 
-![Secondarycolor](../../assets/images/foundations/color-secondary.jpg)
+<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
 
 </br>
 
@@ -32,7 +31,7 @@ Body Copy Guidance:
 - Gray 100–400: Suitable for text on dark backgrounds.
 - Gray 500: Suitable for both light and dark backgrounds, but text must be 24px or larger.
 
-![Grayscalecolor](../../assets/images/foundations/color-grayscale.jpg)
+<img src="../../assets/images/foundations/color-grayscale.jpg" alt="Grayscalecolor" width="752"/>
 
 </br>
 
@@ -40,7 +39,7 @@ Body Copy Guidance:
 
 Our action palette is utilized for notifications, warnings, and confirmations.
 
-![Actioncolor](../../assets/images/foundations/color-action.jpg)
+<img src="../../assets/images/foundations/color-action.jpg" alt="Actioncolor" width="752"/>
 
 </br>
 
@@ -48,7 +47,7 @@ Our action palette is utilized for notifications, warnings, and confirmations.
 
 Our category colors are used to visually group, classify, or filter criteria, allowing you to easily identify and group associated items.
 
-![Categorycolor](../../assets/images/foundations/color-category.jpg)
+<img src="../../assets/images/foundations/color-category.jpg" alt="Categorycolor" width="752"/>
 
 </br>
 
@@ -56,7 +55,7 @@ Our category colors are used to visually group, classify, or filter criteria, al
 
 In the context of API documentation or development tools, the use of different colors can make it easier for developers or users to identify and understand the purpose or nature of each tag.
 
-![Endpointscolor](../../assets/images/foundations/color-endpoints.jpg)
+<img src="../../assets/images/foundations/color-endpoints.jpg" alt="Endpointscolor" width="752"/>
 
 </br>
 
@@ -64,6 +63,6 @@ In the context of API documentation or development tools, the use of different c
 
 Our filter colors provide a visual cue that helps users distinguish between different types of elements quickly and easily.
 
-![Filtercolor](../../assets/images/foundations/color-filter.jpg)
+<img src="../../assets/images/foundations/color-filter.jpg" alt="Filtercolor" width="752"/>
 
 ___
