@@ -33,94 +33,94 @@
     link: docs/getting-started.md
 - sections:
   - title: Foundations
-    # link: docs/documentation/foundations.md
+      link: docs/design-files/foundations.md
     sections:
     - title: Color
-      link: docs/documentation/color.md
+      link: docs/design-files/color.md
     - title: Typography
-      link: docs/documentation/typography.md
+      link: docs/design-files/typography.md
     - title: Spacing
-      link: docs/documentation/spacing.md
+      link: docs/design-files/spacing.md
     - title: Elevation
-      link: docs/documentation/elevation.md
+      link: docs/design-files/elevation.md
     - title: Logo
-      link: docs/documentation/logo.md
+      link: docs/design-files/logo.md
 - sections:
   - title: Components
-    link: docs/documentation/components.md
+    link: docs/design-files/components.md
     sections:
     - title: Accordion
-      link: docs/documentation/accordion.md
+      link: docs/design-files/accordion.md
     - title: Breadcrumb
-      link: docs/documentation/breadcrumb.md
+      link: docs/design-files/breadcrumb.md
     - title: Button
-      link: docs/documentation/button.md
+      link: docs/design-files/button.md
     - title: Carousel
-      link: docs/documentation/carousel.md
+      link: docs/design-files/carousel.md
     - title: Checkbox
-      link: docs/documentation/checkbox.md
+      link: docs/design-files/checkbox.md
     - title: Content Switcher
-      link: docs/documentation/content-switcher.md
+      link: docs/design-files/content-switcher.md
     - title: Divider
-      link: docs/documentation/divider.md
+      link: docs/design-files/divider.md
     - title: Dropdown
-      link: docs/documentation/dropdown.md
+      link: docs/design-files/dropdown.md
     - title: In-page Navigation
-      link: docs/documentation/inpage-navigation.md
+      link: docs/design-files/inpage-navigation.md
     - title: Modal
-      link: docs/documentation/modal.md
+      link: docs/design-files/modal.md
     - title: Notification
-      link: docs/documentation/notification.md
+      link: docs/design-files/notification.md
     - title: Placeholder
-      link: docs/documentation/placeholder.md
+      link: docs/design-files/placeholder.md
     - title: Radio
-      link: docs/documentation/radio.md
+      link: docs/design-files/radio.md
     - title: Search
-      link: docs/documentation/search.md
+      link: docs/design-files/search.md
     - title: Tabs
-      link: docs/documentation/tabs.md
+      link: docs/design-files/tabs.md
     - title: Tag
-      link: docs/documentation/tag.md
+      link: docs/design-files/tag.md
     - title: Text Area
-      link: docs/documentation/text-area.md
+      link: docs/design-files/text-area.md
     - title: Text Input
-      link: docs/documentation/text-input.md
+      link: docs/design-files/text-input.md
     - title: Text Links
-      link: docs/documentation/text-links.md
+      link: docs/design-files/text-links.md
     - title: Toggle
-      link: docs/documentation/toggle.md
+      link: docs/design-files/toggle.md
     - title: Tooltip
-      link: docs/documentation/tooltip.md
+      link: docs/design-files/tooltip.md
 - sections:
   - title: Patterns
-    link: docs/documentation/patterns.md
+    link: docs/design-files/patterns.md
     sections:
     - title: Card
-      link: docs/documentation/card.md
+      link: docs/design-files/card.md
     - title: Charts
-      link: docs/documentation/charts.md
+      link: docs/design-files/charts.md
     - title: Code Snippet
-      link: docs/documentation/code-snippet.md
+      link: docs/design-files/code-snippet.md
     - title: Footer
-      link: docs/documentation/footer.md
+      link: docs/design-files/footer.md
     - title: Global Navigation
-      link: docs/documentation/global-navigation.md
+      link: docs/design-files/global-navigation.md
     - title: Mega Menu
-      link: docs/documentation/mega-menu.md
+      link: docs/design-files/mega-menu.md
     - title: Pagination
-      link: docs/documentation/pagination.md
+      link: docs/design-files/pagination.md
     - title: Progress Indicator
-      link: docs/documentation/progress-indicator.md
+      link: docs/design-files/progress-indicator.md
     - title: Side Navigation
-      link: docs/documentation/side-navigation.md
+      link: docs/design-files/side-navigation.md
     - title: Table
-      link: docs/documentation/table.md
+      link: docs/design-files/table.md
 - sections:
   - title: Icons
-    link: docs/documentation/icons.md
+    link: docs/design-files/icons.md
 - sections:
   - title: Contributing
-    link: docs/documentation/contributing.md
+    link: docs/design-files/contributing.md
 - sections:
   - title: Release notes
     sections:
