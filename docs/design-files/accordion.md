@@ -4,14 +4,14 @@ An accordion is a vertically stacked list of headers that reveals or hides assoc
 
 ## Variants
 
-<img src="/assets/images/foundations/color-primary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/accordion-variants.jpg" alt="accordion-variants" width="752"/>
 
 1. <b>Right aligned:</b> The chevron icon is positioned on the right side of the header by default.
 2. <b>Left aligned:</b> In rare cases, you can position icons on the right side for the folder tree when there are nested accordions.
 
 ## States
 
-<img src="/assets/images/foundations/color-primary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/accordion-states.jpg" alt="accordion-states" width="752"/>
 
 1. <b>Default:</b>
 2. <b>Hover:</b> 
@@ -20,7 +20,7 @@ An accordion is a vertically stacked list of headers that reveals or hides assoc
 
 ## Anatomy
 
-<img src="/assets/images/foundations/color-primary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/accordion-anatomy.jpg" alt="accordion-anatomy" width="752"/>
 
 Accordion is ideal for breaking down long-form or complex content into digestible chunks. It is also well-suited for mobile sites as it reduces the amount a user has to scroll.
 

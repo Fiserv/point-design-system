@@ -4,11 +4,6 @@
 
 # Foundations
 
-## Typography
-
-Typography is a deliberate system of letters, numbers, and characters. Good typography ensures legibility, clean aesthetics, and a well-defined information hierarchy.
-</br>
-
 ## Design Ethos
 
 The Pointe Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
