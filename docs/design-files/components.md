@@ -10,7 +10,7 @@ Components are the reusable building blocks of our design system. Each component
 
 | FOUNDATION | DESCRIPTION |
 | -------- | -------- |
-| *[Accordion](../design-files/accordion.md)*    | An accordion is a vertically stacked list of headers that reveals or hides associated sections of content. Accordions decrease cognitive load by allowing people to choose which sections of content they see.   |
+| *[Accordion](design-files/accordion.md)*    | An accordion is a vertically stacked list of headers that reveals or hides associated sections of content. Accordions decrease cognitive load by allowing people to choose which sections of content they see.   |
 | *[Breadcrumb](breadcrumb.md)*    | The breadcrumb design component on a product page in the design system functions as a horizontal navigational aid. It presents a sequence of clickable links, aiding users in comprehending the page's hierarchy and facilitating efficient navigation through its sections. The component seamlessly integrates with the design system's visual guidelines, ensuring a consistent user experience.   |
 | *[Button](button.md)*    | A button triggers an event or action, informing users about what will happen next.   |
 | *[Carousel](carousel.md)*    | The carousel design components for a product page in a design system are dynamic elements that showcase a rotating series of content items, such as images or cards, to highlight featured products or information. Users can navigate through the content horizontally, offering an engaging and space-efficient way to present multiple items within a limited area.   |
