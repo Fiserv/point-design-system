@@ -10,7 +10,8 @@ Color is a fundamental element in the visual language of the Pointe Design Syste
 
 Our brand colors are widely used across the site on various components, headline text, buttons, and text links.
 
-![Primarycolor](../../assets/images/foundations/color-primary.jpg)
+![Primarycolor](../../assets/images/foundations/color-primary.jpg =x752)
+<img src="../../assets/images/foundations/color-primary.jpg" alt="Primarycolor" width="752"/>
 
 </br>
 
