@@ -21,20 +21,28 @@ Each space token should replace raw pixel or REM values when adding space betwee
 | TOKEN NAME | PIXEL | REM | EXAMPLE |
 | -------- | -------- | -------- | -------- |
 | Space-0   | 0   | 0   |    |
-| Space-1   | 1   | 0.0625   | ▏ |
-| Space-2   | 2  | 0.125  | ▎  |
-| Space-3   | 4  | 0.25  | ▌  |
-| Space-4   | 8 (Base size) | 0.5  | █  |
-| Space-5   | 12  | 0.75  | █▍  |
-| Space-6   | 16  | 1  | ██  |
-| Space-7   | 24  | 1.5  | ███  |
-| Space-8   | 32 | 2  | ████  |
-| Space-9   | 40  | 2.5  | █████  |
-| Space-10   | 48  | 3  | ██████  |
-| Space-11   | 64  | 4  | ████████  |
-| Space-12   | 80 | 5  | ██████████  |
-| Space-13   | 96  | 6  | ████████████  |
-| Space-14   | 112  | 7  | ██████████████  |
-| Space-15   | 128 | 8  | ████████████████ |
-| Space-16   | 160  | 10  | ████████████████████  |
+| Space-1   | 1   | 0.0625   | <img src="../../assets/images/foundations/spacing/spacing-space1.jpg" alt="space-1" height="16"/> |
+| Space-2   | 2  | 0.125  | <img src="../../assets/images/foundations/spacing/spacing-space2.jpg" alt="space-2" height="16"/> |
+| Space-3   | 4  | 0.25  | <img src="../../assets/images/foundations/spacing/spacing-space3.jpg" alt="space-3" height="16"/>  |
+| Space-4   | 8 (Base size) | 0.5  | <img src="../../assets/images/foundations/spacing/spacing-space4.jpg" alt="space-4" height="16"/> |
+| Space-5   | 12  | 0.75  | <img src="../../assets/images/foundations/spacing/spacing-space5.jpg" alt="space-5" height="16"/>▍ |
+| Space-6   | 16  | 1  | <img src="../../assets/images/foundations/spacing/spacing-space6.jpg" alt="space-6" height="16"/> |
+| Space-7   | 24  | 1.5  | <img src="../../assets/images/foundations/spacing/spacing-space7.jpg" alt="space-7" height="16"/>  |
+| Space-8   | 32 | 2  | <img src="../../assets/images/foundations/spacing/spacing-space8.jpg" alt="space-8" height="16"/>  |
+| Space-9   | 40  | 2.5  | <img src="../../assets/images/foundations/spacing/spacing-space9.jpg" alt="space-9" height="16"/>  |
+| Space-10   | 48  | 3  | <img src="../../assets/images/foundations/spacing/spacing-space10.jpg" alt="space-10" height="16"/> |
+| Space-11   | 64  | 4  | <img src="../../assets/images/foundations/spacing/spacing-space11.jpg" alt="space-11" height="16"/> |
+| Space-12   | 80 | 5  | <img src="../../assets/images/foundations/spacing/spacing-space12.jpg" alt="space-12" height="16"/> |
+| Space-13   | 96  | 6  | <img src="../../assets/images/foundations/spacing/spacing-space13.jpg" alt="space-13" height="16"/> |
+| Space-14   | 112  | 7  | <img src="../../assets/images/foundations/spacing/spacing-space14.jpg" alt="space-14" height="16"/> |
+| Space-15   | 128 | 8  | <img src="../../assets/images/foundations/spacing/spacing-space15.jpg" alt="space-15" height="16"/> |
+| Space-16   | 160  | 10  | <img src="../../assets/images/foundations/spacing/spacing-space16.jpg" alt="space-16" height="16"/> |
+
+</br>
+
+### Applying spacing
+
+Our grayscale palette is applied to backgrounds, body copy, dividers, and disabled states.
+
+<img src="../../assets/images/foundations/spacing-anatomy.jpg" alt="spacing" width="752"/>
 ___
