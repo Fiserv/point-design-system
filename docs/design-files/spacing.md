@@ -25,7 +25,7 @@ Each space token should replace raw pixel or REM values when adding space betwee
 | Space-2   | 2  | 0.125  | <img src="../../assets/images/foundations/spacing/spacing-space2.jpg" alt="space-2" height="16"/> |
 | Space-3   | 4  | 0.25  | <img src="../../assets/images/foundations/spacing/spacing-space3.jpg" alt="space-3" height="16"/>  |
 | Space-4   | 8 (Base size) | 0.5  | <img src="../../assets/images/foundations/spacing/spacing-space4.jpg" alt="space-4" height="16"/> |
-| Space-5   | 12  | 0.75  | <img src="../../assets/images/foundations/spacing/spacing-space5.jpg" alt="space-5" height="16"/>▍ |
+| Space-5   | 12  | 0.75  | <img src="../../assets/images/foundations/spacing/spacing-space5.jpg" alt="space-5" height="16"/> |
 | Space-6   | 16  | 1  | <img src="../../assets/images/foundations/spacing/spacing-space6.jpg" alt="space-6" height="16"/> |
 | Space-7   | 24  | 1.5  | <img src="../../assets/images/foundations/spacing/spacing-space7.jpg" alt="space-7" height="16"/>  |
 | Space-8   | 32 | 2  | <img src="../../assets/images/foundations/spacing/spacing-space8.jpg" alt="space-8" height="16"/>  |
