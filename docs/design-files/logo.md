@@ -32,5 +32,5 @@ Common web practice links the main logo of a site to the homepage, providing vis
 
 </br>
 
-<img src="../../assets/images/foundations/logo-fiserv.jpg" alt="spacing" width="752"/>
+<img src="../../assets/images/foundations/Logo-Fiserv.jpg" alt="logo" width="752"/>
 ___
