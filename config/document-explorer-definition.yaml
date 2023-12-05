@@ -33,8 +33,9 @@
     link: docs/getting-started.md
 - sections:
   - title: Foundations
-    link: docs/design-files/foundations.md
     sections:
+    - title: Overview
+      link: docs/design-files/foundations.md
     - title: Color
       link: docs/design-files/color.md
     - title: Typography
@@ -47,8 +48,9 @@
       link: docs/design-files/logo.md
 - sections:
   - title: Components
-    link: docs/design-files/components.md
     sections:
+    - title: Overview
+      link: docs/design-files/components.md
     - title: Accordion
       link: docs/design-files/accordion.md
     - title: Breadcrumb
@@ -93,8 +95,9 @@
       link: docs/design-files/tooltip.md
 - sections:
   - title: Patterns
-    link: docs/design-files/patterns.md
     sections:
+    - title: Overview
+      link: docs/design-files/patterns.md
     - title: Card
       link: docs/design-files/card.md
     - title: Charts
