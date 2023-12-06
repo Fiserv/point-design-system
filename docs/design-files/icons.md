@@ -12,14 +12,10 @@ You can open this link to find our icon collections and download in Github Repos
 
 <font color="black">No access to Github Repository?</font>
 
-</br>
-
 No problem. You can use download our icon collections.
 
 </br>
 
 <font color="black">Find the icons by usage</font>
-
-</br>
 
 All icons are organized by usage for your convenience.
