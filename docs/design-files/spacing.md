@@ -44,5 +44,5 @@ Each space token should replace raw pixel or REM values when adding space betwee
 
 Our grayscale palette is applied to backgrounds, body copy, dividers, and disabled states.
 
-<img src="../../assets/images/foundations/spacing-anatomy.jpg" alt="spacing" width="752"/>
+<img src="../../assets/images/foundations/spacing-anatomy.png" alt="spacing" width="752"/>
 ___
