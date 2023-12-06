@@ -15,7 +15,7 @@ A breadcrumb design component on a product page in the design system serves as a
 
 ## Anatomy
 
-<img src="../../assets/images/components/breadcrumb-states.jpg" alt="breadcrumb-states" width="752"/>
+<img src="../../assets/images/components/breadcrumb-variants.jpg" alt="breadcrumb-states" width="752"/>
 
 The anatomy of a breadcrumb design component in a design system for a product page can be broken down into the following key elements:
 
