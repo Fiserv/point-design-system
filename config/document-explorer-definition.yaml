@@ -28,9 +28,9 @@
 # the delivery of this work
 ################################################################################
 
-- sections:
-  - title: Getting Started
-    link: docs/getting-started.md
+#- sections:
+# - title: Getting Started
+#   link: docs/getting-started.md
 - sections:
   - title: Foundations
     sections:
@@ -121,9 +121,9 @@
 - sections:
   - title: Icons
     link: docs/design-files/icons.md
-- sections:
-  - title: Contributing
-    link: docs/design-files/contributing.md
+#- sections:
+#  - title: Contributing
+#    link: docs/design-files/contributing.md
 - sections:
   - title: Release notes
     sections:
