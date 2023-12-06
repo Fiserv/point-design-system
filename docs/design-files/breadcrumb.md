@@ -25,5 +25,3 @@ The anatomy of a breadcrumb design component in a design system for a product pa
 2. <b>Separators:</b> Separators, such as arrows (->), slashes (/), or dashes (-), visually divide the links, aiding in the hierarchical representation.
 3. <b>Interactive States:</b> Breadcrumbs have distinct styles for different states, including 'Default,' 'Hover,' and 'Active,' ensuring user interaction is clear and responsive.
 
-___
-

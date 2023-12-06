@@ -21,7 +21,7 @@ A button triggers an event or action, letting users know what will happen next.
 2. <b>Hover:</b> In the hover state, the button dynamically responds to user interaction with a slight elevation and color change, creating an engaging and interactive experience.
 3. <b>Focus:</b> In the focused state, the button promptly responds to user interaction by displaying a prominent orange outline when users click or press on it.
 4. <b>Disabled:</b> In the disabled state, the button appears non-interactive, indicated by a subdued light orange/gray color.
-5. <b>Loading</b> In the loading state, the button displays a spinner or progress indicator with a subtle color change (light orange) to signify ongoing processing, temporarily making it non-interactive.
+5. <b>Loading:</b> In the loading state, the button displays a spinner or progress indicator with a subtle color change (light orange) to signify ongoing processing, temporarily making it non-interactive.
 
 </br>
 
@@ -42,5 +42,3 @@ A button triggers an event or action, letting users know what will happen next.
 
 1. <b>Button with Left Icon:</b> Features an icon or symbol positioned on the left side of the button's text label. This design is often used to emphasize the action or function associated with the button, providing users with a visual cue before they read the label. It enhances recognition and usability, making it clear what the button does based on the accompanying icon.
 2. <b>Button with Right Icon:</b> Places the icon or symbol on the right side of the button's text label. This layout is commonly employed to reinforce the button's action after users have read the label. It serves as a supplementary visual indicator to support the text and helps in conveying the specific function or intent of the button more effectively.
-
-___
