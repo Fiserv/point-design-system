@@ -5,7 +5,7 @@ A breadcrumb design component on a product page in the design system serves as a
 
 ## Variants
 
-<img src="/assets/images/foundations/color-primary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/breadcrumb-variants.jpg" alt="breadcrumb-variants" width="752"/>
 
 1. <b>Arrow:</b> This style incorporates right-facing arrow icons as separators between links, creating a visual progression and aiding navigation through the site's hierarchy.
 2. <b>Slash:</b> This style uses forward slashes (/) as separators between links, simplifying the representation of hierarchy and enhancing user navigation through the product page.
@@ -15,7 +15,7 @@ A breadcrumb design component on a product page in the design system serves as a
 
 ## Anatomy
 
-<img src="/assets/images/foundations/color-primary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/breadcrumb-states.jpg" alt="breadcrumb-states" width="752"/>
 
 The anatomy of a breadcrumb design component in a design system for a product page can be broken down into the following key elements:
 
