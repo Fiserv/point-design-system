@@ -6,7 +6,7 @@ Users rely on the global header to navigate and orient themselves in your UI. Th
 
 ## Variants
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
 
 1. General - Desktop double lines
 2. General - Desktop single line
@@ -19,7 +19,7 @@ Users rely on the global header to navigate and orient themselves in your UI. Th
 
 ## States
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
 
 1. Hover
 2. Active
@@ -28,15 +28,9 @@ Users rely on the global header to navigate and orient themselves in your UI. Th
 
 ## Anotomy
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
 
 1. Container
 2. Logo
 3. Navigation links
 4. Button
-
-___
-
-
-
-___
