@@ -13,10 +13,11 @@ An accordion is a vertically stacked list of headers that reveals or hides assoc
 
 <img src="../../assets/images/components/accordion-states.jpg" alt="accordion-states" width="752"/>
 
-1. <b>Default:</b>
-2. <b>Hover:</b> 
-3. <b>Focus:</b> 
-4. <b>Disabled:</b> 
+1. <b>Default:</b> The standard appearance of the accordion item in its initial state.
+2. <b>Hover:</b> The visual representation of the accordion item when a user hovers their cursor over it, providing interactive feedback.
+3. <b>Focus:</b> The accordion item's appearance when it is in focus, typically used for keyboard navigation, highlighting the selected element.
+4. <b>Disabled:</b> The visually subdued state of the accordion item when it is inactive or not interactive.
+5. <b>Skeleton:</b> A simplified and stylized representation of the accordion item, often used as a placeholder to indicate loading or to enhance the user experience during content retrieval.
 
 ## Anatomy
 
