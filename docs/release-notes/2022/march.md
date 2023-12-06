@@ -10,7 +10,7 @@ We are excited to announce the release of Pointe Design System version 1.0! This
 
 Here are the key advantages of Pointe Design System.
 
-**Consistency:**
+#### Consistency:
 - Ensures a consistent look and feel across all applications and platforms.
 - Establishes uniform design patterns, components, and styles, reinforcing brand identity.
 
