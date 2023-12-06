@@ -10,7 +10,7 @@ Elevation utilizes shadows and blurs to create a layered effect, giving users a 
 
 Our brand colors are widely used across the site on various components, headline text, buttons, and text links.
 
-<img src="/assets/images/placeholder.jpg" alt="Placeholder" style="max-width: 50%;" width="800">
+<img src="../../assets/images/foundations/elevation-light.jpg" alt="elevation-light" width="752"/>
 
 </br>
 
@@ -18,7 +18,7 @@ Our brand colors are widely used across the site on various components, headline
 
 For accessibility, we employ a secondary palette for text on darker backgrounds.
 
-<img src="/assets/images/placeholder.jpg" alt="Placeholder" style="max-width: 50%;" width="800">
+<img src="../../assets/images/foundations/elevation-dark.png" alt="elevation-dark" width="752"/>
 
 </br>
 
