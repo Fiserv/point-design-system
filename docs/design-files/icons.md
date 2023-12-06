@@ -23,7 +23,3 @@ No problem. You can use download our icon collections.
 </br>
 
 All icons are organized by usage for your convenience.
-
-</br>
-
-<img src="/assets/images/foundations/Logo-Fiserv.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
