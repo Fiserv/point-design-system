@@ -3,6 +3,7 @@
 ## Typography
 
 Typography is a deliberate system of letters, numbers, and characters. Good typography ensures legibility, clean aesthetics, and a well-defined information hierarchy.
+
 </br>
 
 ### Font weight
@@ -12,7 +13,6 @@ The Univers for Fiserv font family is available in three weights: Light, Regular
 - <span style="font-weight:lighter;">Universe for Fiserv - Light</span>
 - <span style="font-weight:regular;">Universe for Fiserv - Regular</span>
 - <span style="font-weight:bolder;">Universe for Fiserv - Bold</span>
-
 
 </br>
 
@@ -37,7 +37,6 @@ The Univers for Fiserv is the preferred font to be used in digital assets at Fis
 | Tag 1 | Regular | All Caps   | 12px   | 18px   | <span style="font-weight: normal; font-size: 12px;"> Tag 1 </span>  |
 | Tag 2 | Regular | All Lower   | 12px   | 18px   | <span style="font-weight: normal; font-size: 12px;"> Tag 2 </span>  |
 | Footnote | Light | Sentence   | 10px   | 16px   | <span style="font-weight: lighter; font-size: 10px;"> FOOTNOTE </span>  |
-
 
 </br>
 
