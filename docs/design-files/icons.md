@@ -12,8 +12,6 @@ Pointe Design System uses icons to provide additional meaning or in places where
 
 <font color="black">Github Repository</font>
 
-</br>
-
 You can open this link to find our icon collections and download in Github Repository. Pointe Design System offers SVG format for icons.
 
 </br>
