@@ -1,6 +1,7 @@
 # Breadcrumb
 
 A breadcrumb design component on a product page in the design system serves as a horizontal navigational aid. It displays a sequence of clickable links, helping users understand the page's hierarchy and navigate through its sections efficiently. The component integrates seamlessly with the design system's visual guidelines to ensure a consistent user experience.
+
 </br>
 
 ## Variants
@@ -11,6 +12,7 @@ A breadcrumb design component on a product page in the design system serves as a
 2. <b>Slash:</b> This style uses forward slashes (/) as separators between links, simplifying the representation of hierarchy and enhancing user navigation through the product page.
 3. <b>Dash:</b> The 'Dash' style for the breadcrumb design component employs horizontal dashes (-) as separators between links, providing a clean and minimalistic representation of hierarchy.
 4. <b>Skeleton:</b> The skeleton of the breadcrumb design component is a foundational framework that outlines the position, structure, and visual treatment of the breadcrumb.
+
 </br>
 
 ## Anatomy
