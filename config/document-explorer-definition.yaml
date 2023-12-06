@@ -57,8 +57,8 @@
       link: docs/design-files/breadcrumb.md
     - title: Button
       link: docs/design-files/button.md
-    - title: Carousel
-      link: docs/design-files/carousel.md
+#   - title: Carousel
+#     link: docs/design-files/carousel.md
     - title: Checkbox
       link: docs/design-files/checkbox.md
     - title: Content Switcher
