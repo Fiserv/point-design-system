@@ -1,18 +1,16 @@
-# Foundations
-
-## Spacing
+# Spacing
 
 Pointe Design System uses an 8-point grid system for sizing, spacing, and laying out components relative to one another. This means that any padding, margin, button height, etc., is always a multiple of 8 pixels.
 
 </br>
 
-### 8pt grid system
+## 8pt grid system
 
 We use a systematic approach to determine the spacing, ensuring a consistent visual experience across our products. The Design Center at Fiserv follows the 8pt Grid System.
 
 </br>
 
-### Space tokens
+## Space tokens
 
 The 8px base unit forms the basis of our space token system, serving as the base unit Space-4. This scale comprises a limited set of space values used to lay out UI elements consistently.
 
@@ -40,9 +38,8 @@ Each space token should replace raw pixel or REM values when adding space betwee
 
 </br>
 
-### Applying spacing
+## Applying spacing
 
 Our grayscale palette is applied to backgrounds, body copy, dividers, and disabled states.
 
 <img src="../../assets/images/foundations/spacing-anatomy.png" alt="spacing" width="752"/>
-___
