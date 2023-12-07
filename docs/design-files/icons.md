@@ -6,17 +6,19 @@
 
 <span style="color:#333333">
 **Github Repository:**
-</span>
+</span>   
 You can open this link to find our icon collections and download in Github Repository. Pointe Design System offers SVG format for icons.
 
 </br>
 
-<font color="black">No access to Github Repository?</font>
-
+<span style="color:#333333">
+**No access to Github Repository?:**
+</span>   
 No problem. You can use download our icon collections.
 
 </br>
 
-<font color="black">Find the icons by usage</font>
-
+<span style="color:#333333">
+**Find the icons by usage:**
+</span>   
 All icons are organized by usage for your convenience.
