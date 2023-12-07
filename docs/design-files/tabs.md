@@ -6,40 +6,40 @@ Tabs organize related content and enable navigation between groups of content wi
 
 ## Variants
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
 
-1. Evenly spread
-2. Center aligned
-3. Left aligned
+1. <b>Evenly spread</b>
+2. <b>Center aligned</b>
+3. <b>Left aligned</b>
 
 </br>
 
 
 ## States
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
 
-1. Selected
-2. Unselected
-3. Hover
-4. Disabled
+1. <b>Selected</b>
+2. <b>Unselected</b>
+3. <b>Hover</b>
+4. <b>Disabled</b>
 
 </br>
 
 
 ## Sizes
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
 
-1. Small
-2. Big
+1. <b>Small</b>
+2. <b>Big</b>
 
 </br>
 
 ## Anotomy
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
 
-1. Label
-2. Indicator
-3. Icon
+1. <b>Label</b>
+2. <b>Indicator</b>
+3. <b>Icon</b>
