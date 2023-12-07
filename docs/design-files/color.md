@@ -1,12 +1,10 @@
-# Foundations
-
-## Color
+# Color
 
 Color is a fundamental element in the visual language of the Pointe Design System by Fiserv, helping to create consistent experiences across various contexts within Fiserv.
 
 </br>
 
-### Primary palette
+## Primary palette
 
 Our brand colors are widely used across the site on various components, headline text, buttons, and text links.
 
@@ -14,7 +12,7 @@ Our brand colors are widely used across the site on various components, headline
 
 </br>
 
-### Secondary palette
+## Secondary palette
 
 For accessibility, we utilize a secondary palette for text on darker backgrounds.
 
@@ -22,7 +20,7 @@ For accessibility, we utilize a secondary palette for text on darker backgrounds
 
 </br>
 
-### Grayscale palette
+## Grayscale palette
 
 Our grayscale palette is applied to backgrounds, body copy, dividers, and disabled states.
 
@@ -35,7 +33,7 @@ Body Copy Guidance:
 
 </br>
 
-### Action palette
+## Action palette
 
 Our action palette is utilized for notifications, warnings, and confirmations.
 
@@ -43,7 +41,7 @@ Our action palette is utilized for notifications, warnings, and confirmations.
 
 </br>
 
-### Category Palette
+## Category Palette
 
 Our category colors are used to visually group, classify, or filter criteria, allowing you to easily identify and group associated items.
 
@@ -51,7 +49,7 @@ Our category colors are used to visually group, classify, or filter criteria, al
 
 </br>
 
-### Endpoints Palette
+## Endpoints Palette
 
 In the context of API documentation or development tools, the use of different colors can make it easier for developers or users to identify and understand the purpose or nature of each tag.
 
@@ -59,10 +57,8 @@ In the context of API documentation or development tools, the use of different c
 
 </br>
 
-### Filter Tag Palette
+## Filter Tag Palette
 
 Our filter colors provide a visual cue that helps users distinguish between different types of elements quickly and easily.
 
 <img src="../../assets/images/foundations/color-filter.jpg" alt="Filtercolor" width="752"/>
-
-___
