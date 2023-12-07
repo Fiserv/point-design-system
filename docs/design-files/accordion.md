@@ -1,12 +1,10 @@
-# Component
-
-## Accordion
+# Accordion
 
 An accordion is a vertically stacked list of headers that reveals or hides associated sections of content. Accordions decrease cognitive load by allowing people to choose which sections of content they see.
 
 </br>
 
-### Variants
+## Variants
 
 <img src="../../assets/images/components/accordion-variants.jpg" alt="accordion-variants" width="752"/>
 
@@ -15,7 +13,7 @@ An accordion is a vertically stacked list of headers that reveals or hides assoc
 
 </br>
 
-### States
+## States
 
 <img src="../../assets/images/components/accordion-states.jpg" alt="accordion-states" width="752"/>
 
@@ -27,7 +25,7 @@ An accordion is a vertically stacked list of headers that reveals or hides assoc
 
 </br>
 
-### Anatomy
+## Anatomy
 
 <img src="../../assets/images/components/accordion-anatomy.jpg" alt="accordion-anatomy" width="752"/>
 
