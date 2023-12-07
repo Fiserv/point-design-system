@@ -1,10 +1,12 @@
-# Breadcrumb
+# Components
+
+## Breadcrumb
 
 A breadcrumb design component on a product page in the design system serves as a horizontal navigational aid. It displays a sequence of clickable links, helping users understand the page's hierarchy and navigate through its sections efficiently. The component integrates seamlessly with the design system's visual guidelines to ensure a consistent user experience.
 
 </br>
 
-## Variants
+### Variants
 
 <img src="../../assets/images/components/breadcrumb-variants.jpg" alt="breadcrumb-variants" width="752"/>
 
@@ -15,7 +17,7 @@ A breadcrumb design component on a product page in the design system serves as a
 
 </br>
 
-## Anatomy
+### Anatomy
 
 <img src="../../assets/images/components/breadcrumb-variants.jpg" alt="breadcrumb-states" width="752"/>
 
