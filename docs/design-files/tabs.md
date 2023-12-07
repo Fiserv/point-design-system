@@ -1,12 +1,10 @@
-# Components
-
-## Tabs
+# Tabs
 
 Tabs organize related content and enable navigation between groups of content within a container on the same page. They allow users to effortlessly switch between different sections or views, enhancing the overall user experience.
 
 </br>
 
-### Variants
+## Variants
 
 <img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
@@ -17,7 +15,7 @@ Tabs organize related content and enable navigation between groups of content wi
 </br>
 
 
-### States
+## States
 
 <img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
@@ -29,7 +27,7 @@ Tabs organize related content and enable navigation between groups of content wi
 </br>
 
 
-### Sizes
+## Sizes
 
 <img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
@@ -38,7 +36,7 @@ Tabs organize related content and enable navigation between groups of content wi
 
 </br>
 
-### Anotomy
+## Anotomy
 
 <img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
 
