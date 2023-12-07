@@ -1,10 +1,12 @@
-# Checkbox
+# Components
+
+## Checkbox
 
 The checkbox design component in a design system for a product page is a user interface element that enables users to select or deselect options by clicking or tapping a small box.
 
 </br>
 
-## Variants
+### Variants
 
 <img src="../../assets/images/components/checkbox-variants.jpg" alt="checkbox-variants" width="752"/>
 
@@ -16,7 +18,7 @@ The checkbox design component in a design system for a product page is a user in
 
 </br>
 
-## States
+### States
 
 <img src="../../assets/images/components/checkbox-states.jpg" alt="checkbox-states" width="752"/>
 
@@ -28,7 +30,7 @@ The checkbox design component in a design system for a product page is a user in
 
 </br>
 
-## Anatomy
+### Anatomy
 
 <img src="../../assets/images/components/checkbox-anatomy.jpg" alt="checkbox-anatomy" width="752"/>
 
