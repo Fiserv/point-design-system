@@ -1,12 +1,10 @@
-# Foundations
-
-## Elevation
+# Elevation
 
 Elevation utilizes shadows and blurs to create a layered effect, giving users a visual cue that an object or experience is 'elevated' in priority or hierarchy.
 
 </br>
 
-### For light mode
+## For light mode
 
 Our brand colors are widely used across the site on various components, headline text, buttons, and text links.
 
@@ -14,7 +12,7 @@ Our brand colors are widely used across the site on various components, headline
 
 </br>
 
-### For dark mode
+## For dark mode
 
 For accessibility, we employ a secondary palette for text on darker backgrounds.
 
@@ -22,7 +20,7 @@ For accessibility, we employ a secondary palette for text on darker backgrounds.
 
 </br>
 
-### Specifications
+## Specifications
 
 | STYLE NAME | COLOR (LIGHT MODE)| COLOR (DARK MODE) | X | Y | BLUR | ALPHA |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
@@ -31,4 +29,3 @@ For accessibility, we employ a secondary palette for text on darker backgrounds.
 | Elevation-2  | 0E0E0E  | BFBFBF  | 0  | 2  | 8  | 0.20  |
 | Elevation-3  | 0E0E0E  | BFBFBF  | 0  | 3  | 16  | 0.20  |
 | Elevation-4  | 0E0E0E  | BFBFBF  | 0  | 4  | 16  | 0.35  |
-___
