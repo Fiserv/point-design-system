@@ -6,7 +6,7 @@ A footer design component in a design system for a product page is a section loc
 
 ## Themes
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
 
 1. Light
 2. Dark
@@ -16,7 +16,7 @@ A footer design component in a design system for a product page is a section loc
 
 ## Anotomy
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
 
 1. Previous page button
 2. Current page
@@ -25,9 +25,3 @@ A footer design component in a design system for a product page is a section loc
 5. Next page button
 6. Jump to page button
 7. Result per page
-
-___
-
-
-
-___
