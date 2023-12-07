@@ -1,12 +1,10 @@
-# Foundations
-
-## Typography
+# Typography
 
 Typography is a deliberate system of letters, numbers, and characters. Good typography ensures legibility, clean aesthetics, and a well-defined information hierarchy.
 
 </br>
 
-### Font weight
+## Font weight
 
 The Univers for Fiserv font family is available in three weights: Light, Regular and Bold.
 
@@ -16,7 +14,7 @@ The Univers for Fiserv font family is available in three weights: Light, Regular
 
 </br>
 
-### Type scale
+## Type scale
 
 The Univers for Fiserv is the preferred font to be used in digital assets at Fiserv.
 
@@ -39,5 +37,3 @@ The Univers for Fiserv is the preferred font to be used in digital assets at Fis
 | Footnote | Light | Sentence   | 10px   | 16px   | <span style="font-weight: lighter; font-size: 10px;"> FOOTNOTE </span>  |
 
 </br>
-
-___

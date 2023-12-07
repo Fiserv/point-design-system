@@ -41,7 +41,7 @@ Our action palette is utilized for notifications, warnings, and confirmations.
 
 </br>
 
-### Category Palette
+## Category Palette
 
 Our category colors are used to visually group, classify, or filter criteria, allowing you to easily identify and group associated items.
 
@@ -62,5 +62,3 @@ In the context of API documentation or development tools, the use of different c
 Our filter colors provide a visual cue that helps users distinguish between different types of elements quickly and easily.
 
 <img src="../../assets/images/foundations/color-filter.jpg" alt="Filtercolor" width="752"/>
-
-___

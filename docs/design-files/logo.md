@@ -1,12 +1,10 @@
-# Foundations
-
-## Logo
+# Logo
 
 Fiserv logo represents an enhanced market approach and a transformation in financial-services technology.
 
 </br>
 
-### Fiserv logo
+## Fiserv logo
 
 <b>Logo colors:</b>Two versions of the Fiserv logo have been created to accommodate digital applications. The signature in Fiserv Orange should be used whenever possible. A white version of the logo has been created for use on orange backgrounds when necessary.
 
@@ -21,4 +19,3 @@ Fiserv logo represents an enhanced market approach and a transformation in finan
 </br>
 
 <img src="../../assets/images/foundations/Logo-Fiserv.jpg" alt="logo" width="752"/>
-___
