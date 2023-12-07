@@ -1,10 +1,12 @@
-# Button
+# Components
+
+## Button
 
 A button triggers an event or action, letting users know what will happen next.
 
 </br>
 
-## Variants
+### Variants
 
 <img src="../../assets/images/components/button-variants.jpg" alt="button-variants" width="752"/>
 
@@ -13,7 +15,7 @@ A button triggers an event or action, letting users know what will happen next.
 
 </br>
 
-## States
+### States
 
 <img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
 
@@ -25,7 +27,7 @@ A button triggers an event or action, letting users know what will happen next.
 
 </br>
 
-## Sizes
+### Sizes
 
 <img src="../../assets/images/components/button-sizes.jpg" alt="button-sizes" width="752"/>
 
@@ -36,7 +38,7 @@ A button triggers an event or action, letting users know what will happen next.
 
 </br>
 
-## Anatomy
+### Anatomy
 
 <img src="../../assets/images/components/button-anatomy.jpg" alt="button-anatomy" width="752"/>
 
