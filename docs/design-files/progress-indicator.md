@@ -6,20 +6,20 @@ A progress indicator is a visual element that displays the status or completion 
 
 ## Variants
 
-<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
+<img src="../../assets/images/patterns/progressindicator-variants.jpg" alt="progressindicator-variants" width="752"/>
 
-1. Horizontal 1
-2. Horizontal 2
-3. Vertical 1
-4. Vertical 2
+1. <b>Horizontal 1</b>
+2. <b>Horizontal 2</b>
+3. <b>Vertical 1</b>
+4. <b>Vertical 2</b>
 
 </br>
 
 ## Anotomy
 
-<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
+<img src="../../assets/images/patterns/progressindicator-anatomy.jpg" alt="progressindicator-anatomy" width="752"/>
 
-1. Track
-2. Completed
-3. Current
-4. Incomplete
+1. <b>Track</b>
+2. <b>Completed</b>
+3. <b>Current</b>
+4. <b>Incomplete</b>
