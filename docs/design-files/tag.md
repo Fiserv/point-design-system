@@ -6,7 +6,7 @@ A tag is a versatile user interface element used for categorizing and labeling c
 
 ## Variants
 
-<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
+<img src="../../assets/images/components/tag-varisnts.jpg" alt="button-states" width="752"/>
 
 1. <b>Square</b> - Square tags feature a modern, boxy shape for effective content categorization in the user interface.
 2. <b>Pill</b> - Pill tags, with their rounded elongated shape, provide a modern design for content categorization.
