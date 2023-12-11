@@ -1,12 +1,8 @@
-# Components 
-
-## Overview
+# Components overview
 
 Components are the reusable building blocks of our design system. Each component fulfills a specific interaction or UI need and has been intentionally crafted to seamlessly work together, creating patterns and delivering intuitive user experiences.
 
 </br>
-
-## Contents
 
 | FOUNDATION | DESCRIPTION |
 | -------- | -------- |
@@ -30,4 +26,3 @@ Components are the reusable building blocks of our design system. Each component
 | [Tag](?path=docs/design-files/tag.md)   | A tag is a versatile user interface element used for categorizing and labeling content, enhancing organization and user interaction by visually grouping related items together.   |
 | [Text Area](?path=docs/design-files/text-area.md)    | A text area is a UI element for entering and editing longer passages of text in forms or applications. It provides a resizable, multiline input field.   |
 | [Text Input](?path=docs/design-files/text-input.md)     | A text input is a user interface element that provides a single-line input field for users to enter and edit text. It is commonly used in forms and applications for tasks that require users to input relatively short pieces of text, such as names, email addresses, or search queries.   |
-___
