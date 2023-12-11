@@ -6,25 +6,23 @@ A footer design component in a design system for a product page is a section loc
 
 ## Variants
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="../../assets/images/patterns/footer-variants.jpg" alt="footer-variants" style="max-width: 100%;" width="752">
 
-1. General - Desktop
-2. Developer Studio - Desktop
-3. Skeleton - Desktop
-4. General - Mobile
-5. Developer Studio - Mobile
-6. Skeleton - Mobile
+1. <b>General</b> - Desktop
+2. <b>Developer</b> Studio - Desktop
+3. <b>Skeleton</b> - Desktop
+4. <b>General</b> - Mobile
+5. <b>Developer Studio</b> - Mobile
+6. <b>Skeleton</b> - Mobile
 
 </br>
 
-## Anotomy
+## Anatomy
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="../../assets/images/patterns/footer-anatomy.jpg" alt="footer-anatomy" style="max-width: 100%;" width="752">
 
-1. Logo
-2. Doormat navigation
-3. Container
-4. Utility links
-5. Container
-
-___
+1. <b>Logo</b>
+2. <b>Doormat navigation</b>
+3. <b>Container</b>
+4. <b>Utility links</b>
+5. <b>Container</b>
