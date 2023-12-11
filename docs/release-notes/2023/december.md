@@ -8,6 +8,8 @@
 
 We are excited to announce the release of Pointe Design System version 1.0! This marks a significant milestone in our journey to enhance the user experience across Fiserv enterprise applications. Pointe Design System is an amalgamation of industry standard and best user experience Fiserv enterprise applications. Pointe Design System is a comprehensive set of design guidelines, components, and patterns that will streamline the development and design process, ensuring consistency and efficiency.
 
+</br>
+
 Here are the key advantages of Pointe Design System.
 
 <span style="margin-bottom: 0px"><span style="color:#333333">
