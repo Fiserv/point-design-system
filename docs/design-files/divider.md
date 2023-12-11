@@ -4,21 +4,21 @@ A divider design component in a design system for a product page is a horizontal
 
 ## Variants
 
-<img src="../../assets/images/components/accordion-variants.jpg" alt="accordion-variants" width="752"/>
+<img src="../../assets/images/components/divider-variants.jpg" alt="divider-variants" width="752"/>
 
 1. <b>Horizontal:</b> The horizontal style divider design component is a horizontal line or visual element used to separate and organize content on a product page.
 2. <b>Vertical:</b> The vertical style divider design component is a vertical line or visual element used to separate and structure content on a product page.
 
 ## States
 
-<img src="../../assets/images/components/accordion-states.jpg" alt="accordion-states" width="752"/>
+<img src="../../assets/images/components/divider-states.jpg" alt="divider-states" width="752"/>
 
 1. <b>Primary:</b> The primary type divider design component is a prominent separator element used to create clear divisions and hierarchy within the content on a product page.
 2. <b>Secondary:</b> The secondary type divider design component is a subtler visual element used to separate and structure content on a product page.
 
 ## Anatomy
 
-<img src="../../assets/images/components/accordion-anatomy.jpg" alt="accordion-anatomy" width="752"/>
+<img src="../../assets/images/components/divider-anatomy.jpg" alt="do we need this section?" width="752"/>
 
 The anatomy of a divider design component in a design system for a product page includes essential elements and features to enhance content separation and organization. Here's a breakdown:
 

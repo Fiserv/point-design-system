@@ -25,9 +25,7 @@ The content switcher design component for a product page in a design system allo
 
 The anatomy of a content switcher design component in a design system for a product page includes key elements and features to facilitate toggling between different content sections or options. Here's an overview:
 
-1. Toggle or Tabs: The primary elements that users interact with to switch between content sections, often presented as clickable tabs or buttons.
-2. Content Sections: The distinct blocks of content associated with each toggle or tab, which appear when selected and hide when not in focus. These are denoted through text labels.
-3. Visual Feedback: Indicators like highlighting, color changes, or underlining to show the selected or active toggle and associated content.
-4. Interactive States: Different states include 'Default,' 'Hover,' 'Active,' and 'Disabled' to provide visual cues and user-friendly interaction.
-
+1. Selected button
+2. Unselected button
+3. Content switcher component
 ___
