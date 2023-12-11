@@ -1,12 +1,7 @@
-# Overview
-
-</br>
-
+# Patterns overview
 Patterns are reusable combinations of components and templates that address common user issues. These best practice solutions assist users in achieving their objectives and contribute to a consistent user experience.
 
 </br>
-
-## Foundations
 
 | PATTERN | DESCRIPTION |
 | -------- | -------- |

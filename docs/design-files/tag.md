@@ -6,7 +6,7 @@ A tag is a versatile user interface element used for categorizing and labeling c
 
 ## Variants
 
-<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
+<img src="../../assets/images/components/tag-variants.jpg" alt="tag-variants" width="752"/>
 
 1. <b>Square</b> - Square tags feature a modern, boxy shape for effective content categorization in the user interface.
 2. <b>Pill</b> - Pill tags, with their rounded elongated shape, provide a modern design for content categorization.
@@ -19,7 +19,7 @@ A tag is a versatile user interface element used for categorizing and labeling c
 
 ## States
 
-<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
+<img src="../../assets/images/components/tag-states.jpg" alt="tag-states" width="752"/>
 
 1. <b>Default</b> - Indicates how tags initially appear, featuring their standard format and no specific interactions.
 2. <b>Hover</b> - Tags transition to a dark gray color, offering a visual feedback effect when users interact with them.
@@ -30,7 +30,7 @@ A tag is a versatile user interface element used for categorizing and labeling c
 
 ## Anotomy
 
-<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
+<img src="../../assets/images/components/tag-anatomy.jpg" alt="tag-anatomy" width="752"/>
 
 1. The shape of tags pertains to their visual form, varying from square to rounded or pill-shaped, influencing the tag's overall appearance and usability in the interface.
 2. Text in a tag functions as a label for categorization within the interface.
