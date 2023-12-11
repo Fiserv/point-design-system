@@ -15,15 +15,9 @@ A mega menu is an expanded and feature-rich navigation menu, commonly found on w
 
 ## Anatomy
 
-<img src="/assets/images/patterns/megamenu-themes.jpg" alt="megamenu-themes" style="max-width: 100%;" width="752">
+<img src="/assets/images/patterns/megamenu-anatomy.jpg" alt="megamenu-anatomy" style="max-width: 100%;" width="752">
 
 1. Main navigation
 2. Secondary navigation
 3. Link
 4. Link
-
-___
-
-
-
-___
