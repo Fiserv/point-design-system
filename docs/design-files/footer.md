@@ -6,7 +6,7 @@ A footer design component in a design system for a product page is a section loc
 
 ## Variants
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="/assets/images/patterns/footer-variants.jpg" alt="footer-variants" style="max-width: 100%;" width="752">
 
 1. <b>General</b> - Desktop
 2. <b>Developer</b> Studio - Desktop
@@ -19,12 +19,10 @@ A footer design component in a design system for a product page is a section loc
 
 ## Anotomy
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="752">
+<img src="/assets/images/patterns/footer-variants.jpg" alt="footer-variants" style="max-width: 100%;" width="752">
 
 1. <b>Logo</b>
 2. <b>Doormat navigation</b>
 3. <b>Container</b>
 4. <b>Utility links</b>
 5. <b>Container</b>
-
-___
