@@ -75,6 +75,8 @@
       link: docs/design-files/modal.md
     - title: Notification
       link: docs/design-files/notification.md
+    - title: Pagination
+      link: docs/design-files/pagination.md
     - title: Placeholder
       link: docs/design-files/placeholder.md
     - title: Radio
@@ -110,8 +112,6 @@
       link: docs/design-files/global-navigation.md
     - title: Mega Menu
       link: docs/design-files/mega-menu.md
-    - title: Pagination
-      link: docs/design-files/pagination.md
     - title: Progress Indicator
       link: docs/design-files/progress-indicator.md
     - title: Side Navigation
