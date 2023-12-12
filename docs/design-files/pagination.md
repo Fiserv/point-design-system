@@ -14,7 +14,7 @@ A footer design component in a design system for a product page is a section loc
 
 </br>
 
-## Anotomy
+## Anatomy
 
 <img src="../../assets/images/components/pagination-anatomy.jpg" alt="pagination-anatomy" width="752"/>
 
