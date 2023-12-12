@@ -4,7 +4,7 @@ A placeholder is a visual or textual indicator in a design or interface that sho
 
 ## Variants
 
-<img src="../../assets/images/components/accordion-variants.jpg" alt="accordion-variants" width="752"/>
+<img src="../../assets/images/components/placeholder-variants.jpg" alt="placeholder-variants" width="752"/>
 
 1. <b>Basic:</b> The basic placeholder is a simple element typically used for text or content.
 2. <b>Simple:</b> Similar to the basic placeholder, the simple placeholder is minimal in size, conveying the intended content area without additional graphical elements or specific formatting.
