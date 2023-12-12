@@ -69,6 +69,8 @@
       link: docs/design-files/dropdown.md
     - title: In-page Navigation
       link: docs/design-files/inpage-navigation.md
+    - title: Link
+      link: docs/design-files/link.md
     - title: Modal
       link: docs/design-files/modal.md
     - title: Notification
@@ -87,8 +89,6 @@
       link: docs/design-files/text-area.md
     - title: Text Input
       link: docs/design-files/text-input.md
-    - title: Text Links
-      link: docs/design-files/text-links.md
     - title: Toggle
       link: docs/design-files/toggle.md
     - title: Tooltip
