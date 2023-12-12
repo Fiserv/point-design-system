@@ -2,6 +2,8 @@
 
 Notifications provide a versatile and user-friendly way to communicate important information, updates, and alerts to users. Whether it's notifying users of successful actions, important messages, or errors, this component ensures clear and effective communication while enhancing the overall user experience.
 
+<br>
+
 ## Variants
 
 <img src="../../assets/images/components/notification-variants.jpg" alt="notification-variants" width="752"/>
@@ -12,6 +14,8 @@ Notifications provide a versatile and user-friendly way to communicate important
 4. <b>Success:</b> Success notification confirms the successful completion of an action or task within an application or system, providing users with positive feedback and reassurance about their interactions.
 3. <b>Skeleton:</b> Skeleton notification is a placeholder or an empty structure within a user interface that indicates the position and layout where a notification will appear.
 4. <b>Style:</b> The style of a notification, whether it features a white background or a colored background, determines its visual presentation. This choice enhances readability and ensures alignment with the overall design aesthetics of the application or system.
+
+<br>
 
 ## Anatomy
 
