@@ -4,19 +4,19 @@ A footer design component in a design system for a product page is a section loc
 
 </br>
 
-## Themes
+## Variants
 
-<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
+<img src="../../assets/images/components/pagination-variants.jpg" alt="pagination-variants" width="752"/>
 
-1. Light
-2. Dark
-3. Mobile
+1. <b>Large</b>
+2. <b>Default</b>
+3. <b>BSmall</b>
 
 </br>
 
 ## Anotomy
 
-<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
+<img src="../../assets/images/components/pagination-anatomy.jpg" alt="pagination-anatomy" width="752"/>
 
 1. Previous page button
 2. Current page
