@@ -26,7 +26,7 @@ A tag is a versatile user interface element used for categorizing and labeling c
 
 </br>
 
-## Anotomy
+## Anatomy
 
 <img src="../../assets/images/components/tag-anatomy.jpg" alt="tag-anatomy" width="752"/>
 

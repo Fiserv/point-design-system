@@ -26,7 +26,7 @@ Users rely on the global header to navigate and orient themselves in your UI. Th
 
 </br>
 
-## Anotomy
+## Anatomy
 
 <img src="../../assets/images/patterns/globalnavigation-anatomy.jpg" alt="globalnavigation-anatomy" width="752"/>
 

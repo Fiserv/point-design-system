@@ -6,7 +6,7 @@ Tabs organize related content and enable navigation between groups of content wi
 
 ## Variants
 
-<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
+<img src="../../assets/images/components/tabs-variants.jpg" alt="tabs-variants" width="752"/>
 
 1. <b>Evenly spread</b>
 2. <b>Center aligned</b>
@@ -17,29 +17,29 @@ Tabs organize related content and enable navigation between groups of content wi
 
 ## States
 
-<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
+<img src="../../assets/images/components/tabs-states.jpg" alt="tabs-states" width="752"/>
 
 1. <b>Selected</b>
-2. <b>Unselected</b>
-3. <b>Hover</b>
-4. <b>Disabled</b>
+2. <b>Hover</b>
+3. <b>Unselected</b>
 
 </br>
 
 
 ## Sizes
 
-<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
+<img src="../../assets/images/components/tabs-sizes.jpg" alt="tabs-sizes" width="752"/>
 
 1. <b>Small</b>
 2. <b>Big</b>
 
 </br>
 
-## Anotomy
+## Anatomy
 
-<img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
+<img src="../../assets/images/components/tabs-anatomy.jpg" alt="tabs-anatomy" width="752"/>
 
 1. <b>Label</b>
 2. <b>Indicator</b>
-3. <b>Icon</b>
+3. <b>Container</b>
+4. <b>Separator</b>
