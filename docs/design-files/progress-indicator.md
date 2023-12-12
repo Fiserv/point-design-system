@@ -15,7 +15,7 @@ A progress indicator is a visual element that displays the status or completion 
 
 </br>
 
-## Anotomy
+## Anatomy
 
 <img src="../../assets/images/patterns/progressindicator-anatomy.jpg" alt="progressindicator-anatomy" width="752"/>
 
