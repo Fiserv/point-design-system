@@ -2,18 +2,22 @@
 
 Radio buttons are a form element that permits users to choose a single option from a predefined set of choices.
 
+<br>
+
 ## Variants
 
-<img src="../../assets/images/components/accordion-variants.jpg" alt="accordion-variants" width="752"/>
+<img src="../../assets/images/components/radio-variants.jpg" alt="accordion-variants" width="752"/>
 
 1. <b>Without label:</b> Label-less radio buttons offer users a set of visual options, allowing a single selection without accompanying text labels.
 2. <b>With label:</b> This radio button includes a label to indicate the corresponding option.
 3. <b>Vertical radio buttons:</b> Vertically stacked radio buttons are part of a group of two or more options.
 4. <b>Horizontal radio buttons:</b> Horizontally inlined radio buttons are part of a group of two or more options.
 
+<br>
+
 ## States
 
-<img src="../../assets/images/components/accordion-states.jpg" alt="accordion-states" width="752"/>
+<img src="../../assets/images/components/radio-states.jpg" alt="accordion-states" width="752"/>
 
 1. <b>Unselected:</b> Unselected state indicates that the option is not selected.
 2. <b>Selected:</b> Only one radio button can be selected at a time.
@@ -22,9 +26,11 @@ Radio buttons are a form element that permits users to choose a single option fr
 5. <b>Error:</b> In the error state, the radio button provides feedback to indicate an error or an invalid selection.
 6. <b>Skeleton:</b> A Skeleton is a low-fidelity visual placeholder that represents the loading of interface elements before they are displayed on the page. It is also great for designers to use during the ideation phase of their design.
 
+<br>
+
 ## Anatomy
 
-<img src="../../assets/images/components/accordion-anatomy.jpg" alt="accordion-anatomy" width="752"/>
+<img src="../../assets/images/components/radio-anatomy.jpg" alt="accordion-anatomy" width="752"/>
 
 Radio buttons are used to present mutually exclusive options.
 
