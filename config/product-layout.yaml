@@ -28,50 +28,44 @@
 # the delivery of this work
 ################################################################################
 header:
-  productionDescription: Design center product for Fiserv teams to loan.
+  productionDescription: The Pointe Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
 # getStarted: "docs/getting-started.md"
 benefits:
-  - title: Transform
-    description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+  - title: User-Centered Efficiency
+    description: The Pointe Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity. We aim to create interfaces that streamline processes, minimize friction, and empower users to accomplish their tasks with ease.
   - title: Accelerate
-    description: Intelligent design system
-  - title: Optimize
-    description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+    description: Clarity and consistency are paramount in our design system. We prioritize clean, straightforward design elements and maintain a consistent look and feel throughout the enterprise solution. This ensures that users can quickly adapt to different parts of the system and easily understand how to interact with it.
+  - title: Data-Driven Design
+    description: In the enterprise context, data is crucial. Our design ethos values data-driven decision-making, ensuring that our interfaces present information in a meaningful and actionable way. We leverage analytics to continuously enhance the user experience.
 guides:
-  - title: How to create API key
-    description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
-    link: docs/release-notes/2022/march.md
-  - title: How to create Merchant ID
-    description: Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
-    link: docs/documentation/documentation.md
+  - title: Getting access to Figma
+    description: The Pointe Design System by Fiserv is intended for internal use only and includes all the resources you need to get started. Once you sign in, you should be automatically added to the Fiserv Figma organization. There's no need to join or request access to any specific team to access the libraries.
+    link: docs/getting-started.md
 featuredFeatures:
-  - title: Featured Product Offering
-    description:  Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
+  - title: Foundation
+    description:  Foundations are the core of the system, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on iconography, typography, layout, and structure.
     groupName: Group Title
     featured: true
     relatedDocs:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: ./docs/REPLACE-ME1.md
-    relatedAPIs:
-      - relatedAPI: 
-        title: REPLACEME
-        description: REPLACEME
-        type: "patch"        
-        path: "/v1/REPLACEME1"
-  - title: Product Offering
-    description:  Lorem ipsum dolor, consectetur sio adipiscing elit. Lorem ipsum dolor sit
-    groupName: Another Group Title
-    featured: false
+        link: docs/design-files/foundation.md
+  - title: Components
+    description:  Components are the reusable building blocks of our design system. Each component fulfills a specific interaction or UI need and has been intentionally crafted to seamlessly work together, creating patterns and delivering intuitive user experiences.
+    groupName: Group Title
+    featured: true
     relatedDocs:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: ./docs/REPLACE-ME1.md
-    relatedAPIs:
-      - relatedAPI: 
+        link: docs/design-files/components.md
+  - title: Patterns
+    description:  Patterns are reusable combinations of components and templates that address common user issues. These best practice solutions assist users in achieving their objectives and contribute to a consistent user experience.
+    groupName: Group Title
+    featured: true
+    relatedDocs:
+      - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        type: "patch"        
-        path: "/v1/REPLACEME1"
+        link: docs/design-files/patterns.md
