@@ -21,6 +21,8 @@ A modal is a dialog that intentionally interrupts a user’s page experience. It
 
 Modals can include critical or warning information requiring a response. However, they're also designed to support efficient task completion without losing the context of the underlying page. Users won't be able to interact with the page until the dialog is closed.
 
-1. Header: Contains the modal title, optional label, and the close icon.
+1. Header: Contains the modal title and optional label.
 2. Body: Contains the information and/or controls needed to complete the modal’s task. It can include message text and components.
 3. Footer: Contains the main actions needed to complete or cancel the dialog task. Button groupings change based on the modal variant.
+4. Close icon: The close icon will close the dialog without submitting any data.
+5. Overlay: Screen overlay that obscures the on-page content.
