@@ -6,35 +6,44 @@ Tooltips are containers that temporarily display short, contextual text, typical
 
 ## Variants
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="/assets/images/components/tooltip-variants.jpg" alt="tooltip-variants" width="752">
 
-1. Standard tooltip - Provides nonessential, supplemental information to assist a user in decision-making. It is optional to interpret and will not prevent a user from completing a task or workflow.
-2. Tooltip with CTA - Provides additional information with the CTA (Call to Action) to encourage users to take action.
-3. Icon button tooltip - Describes the function or action of a button.
-4. Skeleton - A skeleton is a low-fidelity visual placeholder that represents the loading of interface elements before they are displayed on the page. It is also great for designers to use as an ideation tool in their designs.
+1. <b>Standard tooltip</b> - Provides nonessential, supplemental information to assist a user in decision-making. It is optional to interpret and will not prevent a user from completing a task or workflow.
+2. <b>Tooltip with CTA</b> - Provides additional information with the CTA (Call to Action) to encourage users to take action.
+
+</br>
+
+## Usage
+
+<img src="/assets/images/components/tooltip-usage.jpg" alt="tooltip-usage" width="752">
+
+1. <b>Form fields</b>
+2. <b>Icon button</b>
+3. <b>Truncated text in card</b>
+4. <b>Truncated text in table</b>
 
 </br>
 
 ## Placement
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="/assets/images/components/tooltip-placement.jpg" alt="tooltip-placement" width="752">
 
-1. Top start
-2. Top
-3. Top end
-4. Left
-5. Right
-6. Bottom start
-7. Bottom
-8. Bottom end
+1. <b>Top start</b>
+2. <b>Top</b>
+3. <b>Top end</b>
+4. <b>Left</b>
+5. <b>Right</b>
+6. <b>Bottom start</b>
+7. <b>Bottom</b>
+8. <b>Bottom end</b>
 
 </br>
 
-## Anotomy
+## Anatomy
 
-<img src="/assets/images/foundations/color-secondary.jpg" alt="Placeholder" style="max-width: 100%;" width="800">
+<img src="/assets/images/components/tooltip-anatomy.jpg" alt="tooltip-anatomy" width="752">
 
-1. UI trigger button: A button that triggers a tooltip on hover or focus.
-2. Caret tip: Closely associates the container with the term to be defined.
-3. Container: Contains helper text.
-___
+1. <b>Container</b>
+2. <b>Label</b>
+3. <b>Caret tip</b>
+4. <b>UI trigger button</b>
