@@ -6,7 +6,7 @@ A mega menu is an expanded and feature-rich navigation menu, commonly found on w
 
 ## Themes
 
-<img src="../../assets/images/patterns/megamenu-themes.jpg" alt="megamenu-themes" width="752">
+<img src="../../assets/images/patterns/megamenu-themes.jpg" alt="megamenu-themes" width="752"/>
 
 1. <b>Light</b>
 2. <b>Dark</b>
@@ -15,7 +15,7 @@ A mega menu is an expanded and feature-rich navigation menu, commonly found on w
 
 ## Anatomy
 
-<img src="../../assets/images/patterns/megamenu-anatomy.jpg" alt="megamenu-anatomy" width="752">
+<img src="../../assets/images/patterns/megamenu-anatomy.jpg" alt="megamenu-anatomy" width="752"/>
 
 1. <b>Main navigation</b>
 2. <b>Secondary navigation</b>
