@@ -6,7 +6,7 @@ Tooltips are containers that temporarily display short, contextual text, typical
 
 ## Variants
 
-<img src="/assets/images/components/tooltip-variants.jpg" alt="tooltip-variants" width="752">
+<img src="../../assets/images/components/tooltip-variants.jpg" alt="tooltip-variants" width="752">
 
 1. <b>Standard tooltip</b> - Provides nonessential, supplemental information to assist a user in decision-making. It is optional to interpret and will not prevent a user from completing a task or workflow.
 2. <b>Tooltip with CTA</b> - Provides additional information with the CTA (Call to Action) to encourage users to take action.
@@ -15,7 +15,7 @@ Tooltips are containers that temporarily display short, contextual text, typical
 
 ## Usage
 
-<img src="/assets/images/components/tooltip-usage.jpg" alt="tooltip-usage" width="752">
+<img src="../../assets/images/components/tooltip-usage.jpg" alt="tooltip-usage" width="752">
 
 1. <b>Form fields</b>
 2. <b>Icon button</b>
@@ -26,7 +26,7 @@ Tooltips are containers that temporarily display short, contextual text, typical
 
 ## Placement
 
-<img src="/assets/images/components/tooltip-placement.jpg" alt="tooltip-placement" width="752">
+<img src="../../assets/images/components/tooltip-placement.jpg" alt="tooltip-placement" width="752">
 
 1. <b>Top start</b>
 2. <b>Top</b>
@@ -41,7 +41,7 @@ Tooltips are containers that temporarily display short, contextual text, typical
 
 ## Anatomy
 
-<img src="/assets/images/components/tooltip-anatomy.jpg" alt="tooltip-anatomy" width="752">
+<img src="../../assets/images/components/tooltip-anatomy.jpg" alt="tooltip-anatomy" width="752">
 
 1. <b>Container</b>
 2. <b>Label</b>
