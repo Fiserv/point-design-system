@@ -31,6 +31,6 @@ The content switcher design component for a product page in a design system allo
 
 The anatomy of a content switcher design component in a design system for a product page includes key elements and features to facilitate toggling between different content sections or options. Here's an overview:
 
-1. Selected button
-2. Unselected button
-3. Content switcher component
+1. <b>Selected button</b>
+2. <b>Unselected button</b>
+3. <b>Content switcher component</b>
