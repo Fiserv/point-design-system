@@ -40,7 +40,7 @@ benefits:
 guides:
   - title: Getting access to Figma
     description: The Pointe Design System by Fiserv is intended for internal use only and includes all the resources you need to get started. Once you sign in, you should be automatically added to the Fiserv Figma organization. There's no need to join or request access to any specific team to access the libraries.
-    link: docs/getting-started.md
+    link: "docs/getting-started.md"
 featuredFeatures:
   - title: Foundation
     description:  Foundations are the core of the system, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on iconography, typography, layout, and structure.
@@ -50,7 +50,7 @@ featuredFeatures:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: docs/design-files/foundation.md
+        link: "docs/design-files/foundation.md"
   - title: Components
     description:  Components are the reusable building blocks of our design system. Each component fulfills a specific interaction or UI need and has been intentionally crafted to seamlessly work together, creating patterns and delivering intuitive user experiences.
     groupName: Group Title
@@ -59,7 +59,7 @@ featuredFeatures:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: docs/design-files/components.md
+        link: "docs/design-files/components.md"
   - title: Patterns
     description:  Patterns are reusable combinations of components and templates that address common user issues. These best practice solutions assist users in achieving their objectives and contribute to a consistent user experience.
     groupName: Group Title
@@ -68,4 +68,4 @@ featuredFeatures:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: docs/design-files/patterns.md
+        link: "docs/design-files/patterns.md"
