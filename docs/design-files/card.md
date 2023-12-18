@@ -6,7 +6,7 @@ Cards should enable effortless scanning for relevant and actionable details, wit
 
 ## Variants
 
-<img src="../../assets/images/components/tooltip-variants.jpg" alt="tooltip-variants" width="752"/>
+<img src="../../assets/images/patterns/card-variants.jpg" alt="card-variants" width="752"/>
 
 1. <b>Left-aligned</b>
 2. <b>Center-aligned</b>
@@ -16,15 +16,13 @@ Cards should enable effortless scanning for relevant and actionable details, wit
 
 ## Anatomy
 
-<img src="../../assets/images/components/tooltip-anatomy.jpg" alt="tooltip-anatomy" width="752"/>
+<img src="../../assets/images/patterns/card-anatomy.jpg" alt="card-anatomy" width="752"/>
 
 1. <b>Container</b>
-2. <b>Label</b>
-3. <b>Caret tip</b>
-4. <b>UI trigger button</b>
-5. <b>Container</b>
-6. <b>Label</b>
-7. <b>Caret tip</b>
-8. <b>UI trigger button</b>
-9. <b>Caret tip</b>
-10. <b>UI trigger button</b>
+2. <b>Header</b>
+3. <b>Title</b>
+4. <b>Subtitle</b>
+5. <b>Body</b>
+6. <b>Body text</b>
+7. <b>Footer</b>
+8. <b>Buttons</b>
