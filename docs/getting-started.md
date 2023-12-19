@@ -50,8 +50,8 @@ You will be added to the Fiserv Figma organization automatically upon signing in
 
 Inside of a design file, click the Figma icon in the top left of the toolbar. Open the menu and select Libraries from the list.
 
-![Placeholder](../assets/images/getaccesstofigma_01.jpg)
+<img src="../../assets/images/getaccesstofigma_01.jpg" alt="getaccesstofigma_01" width="752"/>
 
 Then in the Libraries modal that appears, type in "Digital Transformation Design System" and click "Add to file" button.
 
-![Placeholder](../assets/images/getaccesstofigma_02.jpg)
+<img src="../../assets/images/getaccesstofigma_02.jpg" alt="getaccesstofigma_02" width="752"/>
