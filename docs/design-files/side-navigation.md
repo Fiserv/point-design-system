@@ -6,20 +6,19 @@ The side navigation component is a foundational element that facilitates efficie
 
 ## Variants
 
-<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
+<img src="../../assets/images/patterns/sidenavigation-variants.jpg" alt="sidenavigation-variants" width="752"/>
 
-1. List
-2. List
-3. List
-4. List
+1. Full
+2. Skeleton
 
 </br>
 
-## Anotomy
+## Anatomy
 
-<img src="../../assets/images/foundations/color-secondary.jpg" alt="Secondarycolor" width="752"/>
+<img src="../../assets/images/patterns/sidenavigation-anatomy.jpg" alt="sidenavigation-anatomy" width="752"/>
 
-1. Track
-2. Completed
-3. Current
-4. Incomplete
+1. Product name
+2. Version dropdown
+3. Selected navigation item
+4. Page navigation item
+5. Group navigation item - Secondary and tertiary navigation are underneath
