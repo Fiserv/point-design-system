@@ -1,6 +1,6 @@
 # Foundations Overview
 
-Foundations are the core of the system, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on iconography, typography, layout, and structure.
+Foundations are the core of Point Design System, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on color, elevation, spacing, and typography.
 
 </br>
 
