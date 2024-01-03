@@ -1,10 +1,10 @@
-# Getting Started
+# Get Started
 
 </br>
 
 ## Design Ethos
 
-Point Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
+Point Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Point Design System puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
 
 </br>
 
@@ -30,11 +30,11 @@ Accessibility is a non-negotiable aspect of our design ethos. We are committed t
 
 ### Collaboration and Feedback
 
-We encourage collaboration among designers, developers, and stakeholders. User feedback and iterative design processes are fundamental to our approach, enabling us to continuously refine and enhance the design system.
+We encourage collaboration among designers, developers, and stakeholders. User feedback and iterative design processes are fundamental to our approach, enabling us to continuously refine and enhance our design system.
 
 </br>
 
-## Getting access to Figma
+## Get access to Figma
 
 ### Get the libraries
 
