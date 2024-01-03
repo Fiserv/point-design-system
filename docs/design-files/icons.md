@@ -7,14 +7,14 @@
 <span style="color:#333333">
 **Github Repository:**
 </span>   
-You can open this link to find our icon collections and download in Github Repository. Pointe Design System offers SVG format for icons.
+You can [find our icon collection](https://github.com/Fiserv/design-center) and download in GitHub Repository. Point Design System offers SVG format for icons.
 
 </br>
 
 <span style="color:#333333">
 **No access to Github Repository?:**
 </span>   
-No problem. You can use download our icon collections.
+No problem. You can [download our icon collection](https://github.com/Fiserv/design-center).
 
 </br>
 
