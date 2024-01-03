@@ -28,7 +28,7 @@
 # the delivery of this work
 ################################################################################
 header:
-  productionDescription: The Point Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
+  productionDescription: Point Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Point puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
 # getStarted: "docs/getting-started.md"
 benefits:
   - title: User-Centered Efficiency
