@@ -34,7 +34,7 @@ The checkbox design component in a design system for a product page is a user in
 
 The anatomy of a checkbox design component in a design system for a product page comprises several key elements and features. Here's a breakdown:
 
-1. Checkbox Icon: The core element, a small square or rectangle that users can interact with to select or deselect an option.
-2. Text Label: An optional accompanying text label that describes the option, enhancing clarity and user understanding.
-3. Visual Indicators: Distinct visual cues, such as a checkmark inside the checkbox when selected, indicating the state of the checkbox.
-4. Grouping Mechanism: When checkboxes are used in groups, there is a mechanism to ensure they work together and allow for multiple selections, promoting a cohesive user experience.
+1. <b>Checkbox Icon:</b> The core element, a small square or rectangle that users can interact with to select or deselect an option.
+2. <b>Text Label:</b> An optional accompanying text label that describes the option, enhancing clarity and user understanding.
+3. <b>Visual Indicators:</b> Distinct visual cues, such as a checkmark inside the checkbox when selected, indicating the state of the checkbox.
+4. <b>Grouping Mechanism:</b> When checkboxes are used in groups, there is a mechanism to ensure they work together and allow for multiple selections, promoting a cohesive user experience.

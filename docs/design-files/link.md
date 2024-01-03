@@ -29,5 +29,5 @@ A link is a clickable element in a user interface that appears as text, usually 
 
 The anatomy of an in-page navigation component includes elements such as links, buttons, menus, and icons that facilitate seamless user movement within a website or application.
 
-1. Label: Communicates what is being linked to.
-2. Icon: Indicates what the action is.
+1. <b>Label:</b> Communicates what is being linked to.
+2. <b>Icon:</b> Indicates what the action is.

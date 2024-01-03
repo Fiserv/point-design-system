@@ -30,9 +30,9 @@ Charts should enable quick comprehension of data insights by strategically arran
 
 <img src="../../assets/images/patterns/chart-anatomy.jpg" alt="chart-anatomy" width="752"/>
 
-1. Header
-2. Legend
-3. Plot Area
-4. Plotted Data
-5. Tooltip and Scrubber
+1. <b>Header</b>
+2. <b>Legend</b>
+3. <b>Plot Area</b>
+4. <b>Plotted Data</b>
+5. <b>Tooltip and Scrubber</b>
 
