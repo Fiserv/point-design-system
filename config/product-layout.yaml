@@ -32,17 +32,17 @@ header:
 # getStarted: "docs/getting-started.md"
 benefits:
   - title: User-Centered Efficiency
-    description: The Pointe Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity. We aim to create interfaces that streamline processes, minimize friction, and empower users to accomplish their tasks with ease.
+    description: The Pointe Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity.
   - title: Accelerate
-    description: Clarity and consistency are paramount in our design system. We prioritize clean, straightforward design elements and maintain a consistent look and feel throughout the enterprise solution. This ensures that users can quickly adapt to different parts of the system and easily understand how to interact with it.
+    description: Clarity and consistency are paramount in our design system. We prioritize clean design elements and maintain a consistent look and feel.
   - title: Data-Driven Design
-    description: In the enterprise context, data is crucial. Our design ethos values data-driven decision-making, ensuring that our interfaces present information in a meaningful and actionable way. We leverage analytics to continuously enhance the user experience.
+    description: Our design ethos values data-driven decision-making, ensuring that our interfaces present information in a meaningful and actionable way. 
 guides:
   - title: Getting access to Figma
-    description: The Pointe Design System by Fiserv is intended for internal use only and includes all the resources you need to get started. Once you sign in, you should be automatically added to the Fiserv Figma organization. There's no need to join or request access to any specific team to access the libraries.
+    description: Learn about how to get access to Pointe Design System Figma file. 
     link: "docs/getting-started.md"
 featuredFeatures:
-  - title: Foundation
+  - title: Foundations
     description:  Foundations are the core of the system, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on iconography, typography, layout, and structure.
     groupName: Group Title
     featured: true
@@ -50,7 +50,7 @@ featuredFeatures:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: "docs/design-files/foundation.md"
+        link: "docs/design-files/foundations.md"
   - title: Components
     description:  Components are the reusable building blocks of our design system. Each component fulfills a specific interaction or UI need and has been intentionally crafted to seamlessly work together, creating patterns and delivering intuitive user experiences.
     groupName: Group Title

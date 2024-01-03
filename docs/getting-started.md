@@ -2,8 +2,6 @@
 
 </br>
 
-# Foundations
-
 ## Design Ethos
 
 The Pointe Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
