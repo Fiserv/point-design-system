@@ -32,18 +32,18 @@ header:
 # getStarted: "docs/getting-started.md"
 benefits:
   - title: User-Centered Efficiency
-    description: The Point Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity.
+    description: Point Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity.
   - title: Accelerate
-    description: Clarity and consistency are paramount in our design system. We prioritize clean design elements and maintain a consistent look and feel.
+    description: Clarity and consistency are paramount in Point Design System. We prioritize clean design elements and maintain a consistent look and feel.
   - title: Data-Driven Design
-    description: Our design ethos values data-driven decision-making, ensuring that our interfaces present information in a meaningful and actionable way. 
+    description: Point values data-driven decision-making, ensuring that our interfaces present information in a meaningful and actionable way. 
 guides:
   - title: Getting access to Figma
     description: Learn about how to get access to Point Design System Figma file. 
-    link: "docs/getting-started.md#getting-access-to-figma"
+    link: "docs/getting-started.mds"
 featuredFeatures:
   - title: Foundations
-    description:  Foundations are the core of the system, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on iconography, typography, layout, and structure.
+    description:  Foundations are the core of Point Design System, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on iconography, typography, layout, and structure.
     groupName: Group Title
     featured: true
     relatedDocs:
@@ -52,7 +52,7 @@ featuredFeatures:
         description: REPLACEME
         link: "docs/design-files/foundations.md"
   - title: Components
-    description:  Components are the reusable building blocks of our design system. Each component fulfills a specific interaction or UI need and has been intentionally crafted to seamlessly work together, creating patterns and delivering intuitive user experiences.
+    description:  Components are the reusable building blocks of Point Design System. Each component fulfills a specific interaction or UI need and has been intentionally crafted to seamlessly work together, creating patterns and delivering intuitive user experiences.
     groupName: Group Title
     featured: true
     relatedDocs:
