@@ -4,13 +4,13 @@
 
 ## Design Ethos
 
-The Pointe Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
+Point Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Flash puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
 
 </br>
 
 ### User-Centered Efficiency
 
-The Pointe Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity. We aim to create interfaces that streamline processes, minimize friction, and empower users to accomplish their tasks with ease.
+Point Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity. We aim to create interfaces that streamline processes, minimize friction, and empower users to accomplish their tasks with ease.
 
 ### Clarity and consistency
 
@@ -38,13 +38,13 @@ We encourage collaboration among designers, developers, and stakeholders. User f
 
 ### Get the libraries
 
-The Pointe Design System by Fiserv is intended for internal use only and includes all the resources you need to get started. Once you sign in, you should be automatically added to the Fiserv Figma organization. There's no need to join or request access to any specific team to access the libraries.
+Point Design System by Fiserv is intended for internal use only and includes all the resources you need to get started. Once you sign in, you should be automatically added to the Fiserv Figma organization. There's no need to join or request access to any specific team to access the libraries.
 
 #### 1. Open Figma
 
 You will be added to the Fiserv Figma organization automatically upon signing in. There's no need to join or request access to any specific team to access the libraries.
 
-#### 2. Turn on the Pointe Design System
+#### 2. Turn on Point Design System
 
 Inside of a design file, click the Figma icon in the top left of the toolbar. Open the menu and select Libraries from the list.
 
