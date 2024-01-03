@@ -28,7 +28,7 @@ Charts should enable quick comprehension of data insights by strategically arran
 
 ## Anatomy
 
-<img src="../../assets/images/patterns/chart-anatomy.jpg" alt="chart-anatomy" width="752"/>
+<img src="../../assets/images/patterns/chart-anatomy.png" alt="chart-anatomy" width="752"/>
 
 1. <b>Header</b>
 2. <b>Legend</b>
