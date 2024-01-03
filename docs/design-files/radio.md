@@ -34,10 +34,10 @@ Radio buttons are a form element that permits users to choose a single option fr
 
 Radio buttons are used to present mutually exclusive options.
 
-1. Group label: Describes the group of options or provides guidance for making a selection.
-2. Radio button: An option indicating the appropriate state. By default, an option is selected.
-3. Label: Describes the information you want to select or unselect.
-4. Error message: Displays the error.
+1. <b>Group label:</b> Describes the group of options or provides guidance for making a selection.
+2. <b>Radio button:</b> An option indicating the appropriate state. By default, an option is selected.
+3. <b>Label:</b> Describes the information you want to select or unselect.
+4. <b>Error message:</b> Displays the error.
 
 
 ___

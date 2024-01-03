@@ -31,8 +31,8 @@ An accordion is a vertically stacked list of headers that reveals or hides assoc
 
 Accordion is ideal for breaking down long-form or complex content into digestible chunks. It is also well-suited for mobile sites as it reduces the amount a user has to scroll.
 
-1. Collapsed Accordion panel: Sections of content associated with each header. By default, panels are typically closed and revealed when a user clicks on a header or icon in the menu.
-2. Expanded Accordion panel: Sections of content associated with each header.  These should be brief but descriptive enough to indicate what the reader can expect to learn more about by clicking.
-3. Label: Contains section titles. These should be brief but descriptive enough to indicate what the reader can expect to learn more about by clicking.
-4. Chevron icon: Typically appear to the left or right of the section titles, indicating that there is more content available if clicked.
+1. <b>Collapsed Accordion panel:</b> Sections of content associated with each header. By default, panels are typically closed and revealed when a user clicks on a header or icon in the menu.
+2. <b>Expanded Accordion panel:</b> Sections of content associated with each header.  These should be brief but descriptive enough to indicate what the reader can expect to learn more about by clicking.
+3. <b>Label:</b> Contains section titles. These should be brief but descriptive enough to indicate what the reader can expect to learn more about by clicking.
+4. <b>Chevron icon:</b> Typically appear to the left or right of the section titles, indicating that there is more content available if clicked.
 

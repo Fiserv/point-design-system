@@ -17,8 +17,8 @@ The side navigation component is a foundational element that facilitates efficie
 
 <img src="../../assets/images/patterns/sidenavigation-anatomy.jpg" alt="sidenavigation-anatomy" width="752"/>
 
-1. Product name
-2. Version dropdown
-3. Selected navigation item
-4. Page navigation item
-5. Group navigation item - Secondary and tertiary navigation are underneath
+1. <b>Product name</b>
+2. <b>Version dropdown</b>
+3. <b>Selected navigation item</b>
+4. <b>Page navigation item</b>
+5. <b>Group navigation item - Secondary and tertiary navigation are underneath</b>

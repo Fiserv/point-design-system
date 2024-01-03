@@ -11,7 +11,6 @@ A modal is a dialog that intentionally interrupts a user’s page experience. It
 1. <b>Regular:</b> Used to display a basic modal with the header, body, and call-to-action buttons (CTAs).
 2. <b>Regular with content container:</b> The same as a Regular Modal. Designers can use this to indicate that there will be customized content in the body section.
 3. <b>Mobile:</b> Regular modal designed for mobile.
-4. <b>Skeleton:</b> A Skeleton is a low-fidelity visual placeholder that represents the loading of interface elements before they are displayed on the page. It is also great for designers to use for ideation in their designs.
 
 <br>
 
@@ -21,8 +20,8 @@ A modal is a dialog that intentionally interrupts a user’s page experience. It
 
 Modals can include critical or warning information requiring a response. However, they're also designed to support efficient task completion without losing the context of the underlying page. Users won't be able to interact with the page until the dialog is closed.
 
-1. Header: Contains the modal title and optional label.
-2. Body: Contains the information and/or controls needed to complete the modal’s task. It can include message text and components.
-3. Footer: Contains the main actions needed to complete or cancel the dialog task. Button groupings change based on the modal variant.
-4. Close icon: The close icon will close the dialog without submitting any data.
-5. Overlay: Screen overlay that obscures the on-page content.
+1. <b>Header:</b> Contains the modal title and optional label.
+2. <b>Body:</b> Contains the information and/or controls needed to complete the modal’s task. It can include message text and components.
+3. <b>Footer:</b> Contains the main actions needed to complete or cancel the dialog task. Button groupings change based on the modal variant.
+4. <b>Close icon:</b> The close icon will close the dialog without submitting any data.
+5. <b>Overlay:</b> Screen overlay that obscures the on-page content.
