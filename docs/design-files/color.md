@@ -1,6 +1,6 @@
 # Color
 
-Color is a fundamental element in the visual language of Pointe Design System, helping to create consistent experiences across various contexts within Fiserv.
+Color is a fundamental element in the visual language of Point Design System, helping to create consistent experiences across various contexts within Fiserv.
 
 </br>
 
