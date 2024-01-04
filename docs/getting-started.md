@@ -4,7 +4,7 @@
 
 ## Design Ethos
 
-Point Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Point Design System puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
+Point Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Point puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
 
 </br>
 
