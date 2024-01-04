@@ -9,7 +9,7 @@ A button triggers an event or action, letting users know what will happen next.
 <img src="../../assets/images/components/button-variants.jpg" alt="button-variants" width="752"/>
 
 1. <b>Primary:</b> Limit the use of one primary button in a layout for the most important action. If there are more than two buttons with equal priority, ensure all buttons have neutral backgrounds.
-2. <b>Secondary:</b> For secondary actions on each page, secondary buttons can only be used in conjunction with a primary button.
+2. <b>Secondary:</b> Secondary buttons can only be used in conjunction with a primary button.
 
 </br>
 
@@ -17,11 +17,11 @@ A button triggers an event or action, letting users know what will happen next.
 
 <img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
 
-1. <b>Default:</b> In its default state, the button displays standard content and styling, offering a baseline representation of the component.
-2. <b>Hover:</b> In the hover state, the button dynamically responds to user interaction with a slight elevation and color change, creating an engaging and interactive experience.
-3. <b>Focus:</b> In the focused state, the button promptly responds to user interaction by displaying a prominent orange outline when users click or press on it.
-4. <b>Disabled:</b> In the disabled state, the button appears non-interactive, indicated by a subdued light orange/gray color.
-5. <b>Loading:</b> In the loading state, the button displays a spinner or progress indicator with a subtle color change (light orange) to signify ongoing processing, temporarily making it non-interactive.
+1. <b>Default:</b> The button displays standard content and styling, offering a baseline representation of the component.
+2. <b>Hover:</b> The button dynamically responds to user interaction with a slight elevation and color change, creating an engaging and interactive experience.
+3. <b>Focus:</b> The button promptly responds to user interaction by displaying a prominent orange outline when users click or press on it.
+4. <b>Disabled:</b> The button appears non-interactive, indicated by a subdued light orange/gray color.
+5. <b>Loading:</b> The button displays a spinner or progress indicator with a subtle color change (light orange) to signify ongoing processing, temporarily making it non-interactive.
 
 </br>
 
