@@ -1,12 +1,12 @@
 # Spacing
 
-Pointe Design System uses an 8-point grid system for sizing, spacing, and laying out components relative to one another. This means that any padding, margin, button height, etc., is always a multiple of 8 pixels.
+Point Design System uses an 8-point grid system for sizing, spacing, and laying out components relative to one another. This means that any padding, margin, button height, etc., is always a multiple of 8 pixels.
 
 </br>
 
 ## 8pt grid system
 
-We use a systematic approach to determine the spacing, ensuring a consistent visual experience across our products. The Design Center at Fiserv follows the 8pt Grid System.
+We use a systematic approach to determine the spacing, ensuring a consistent visual experience across our products. Point follows the 8pt grid system.
 
 </br>
 
