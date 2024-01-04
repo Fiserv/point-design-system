@@ -8,10 +8,10 @@ A breadcrumb serves as a horizontal navigational aid. It displays a sequence of 
 
 <img src="../../assets/images/components/breadcrumb-variants.jpg" alt="breadcrumb-variants" width="752"/>
 
-1. <b>Arrow:</b>
-2. <b>Slash:</b>
-3. <b>Dash:</b>
-4. <b>Skeleton:</b>
+1. <b>Arrow</b>
+2. <b>Slash</b>
+3. <b>Dash</b>
+4. <b>Skeleton</b>
 
 </br>
 
