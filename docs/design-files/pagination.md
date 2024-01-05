@@ -1,6 +1,6 @@
 # Pagination
 
-A footer design component in a design system for a product page is a section located at the bottom of the page, offering important information, links, and navigation options.
+A footer is a section located at the bottom of the page, offering important information, links, and navigation options.
 
 </br>
 
