@@ -1,6 +1,6 @@
 # Divider
 
-A divider design component in a design system for a product page is a horizontal or vertical line or visual element used to separate and organize content, enhancing clarity and visual structure.
+A divider is a horizontal or vertical line or visual element used to separate and organize content, enhancing clarity and visual structure.
 
 <br>
 
