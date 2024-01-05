@@ -26,15 +26,13 @@ Radio buttons are a form element that permits users to choose a single option fr
 5. <b>Error</b>
 6. <b>Skeleton</b>
 
-br>
+<br>
 
 ## Anatomy
 
 <img src="../../assets/images/components/radio-anatomy.jpg" alt="accordion-anatomy" width="752"/>
 
-Radio buttons are used to present mutually exclusive options.
-
-1. <b>Group label:</b> Describes the group of options or provides guidance for making a selection.
-2. <b>Radio button:</b> An option indicating the appropriate state. By default, an option is selected.
-3. <b>Label:</b> Describes the information you want to select or unselect.
-4. <b>Error message:</b> Displays the error.
+1. <b>Group label</b>
+2. <b>Radio button</b>
+3. <b>Label</b>
+4. <b>Error message</b>
