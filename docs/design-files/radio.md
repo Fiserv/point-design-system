@@ -19,14 +19,14 @@ Radio buttons are a form element that permits users to choose a single option fr
 
 <img src="../../assets/images/components/radio-states.jpg" alt="accordion-states" width="752"/>
 
-1. <b>Unselected:</b> Unselected state indicates that the option is not selected.
-2. <b>Selected:</b> Only one radio button can be selected at a time.
-3. <b>Focused:</b> In the focused state, the radio button is highlighted to indicate its keyboard focus.
-4. <b>Disabled:</b> In the disabled state, the radio button appears as an option but is visually indicated as disabled.
-5. <b>Error:</b> In the error state, the radio button provides feedback to indicate an error or an invalid selection.
-6. <b>Skeleton:</b> A Skeleton is a low-fidelity visual placeholder that represents the loading of interface elements before they are displayed on the page. It is also great for designers to use during the ideation phase of their design.
+1. <b>Unselected</b>
+2. <b>Selected</b>
+3. <b>Focused</b>
+4. <b>Disabled</b>
+5. <b>Error</b>
+6. <b>Skeleton</b>
 
-<br>
+br>
 
 ## Anatomy
 
@@ -38,8 +38,3 @@ Radio buttons are used to present mutually exclusive options.
 2. <b>Radio button:</b> An option indicating the appropriate state. By default, an option is selected.
 3. <b>Label:</b> Describes the information you want to select or unselect.
 4. <b>Error message:</b> Displays the error.
-
-
-___
-
-
