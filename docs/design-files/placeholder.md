@@ -2,6 +2,8 @@
 
 A placeholder is a visual or textual indicator in a design or interface that shows where specific content should be placed. It helps users and designers understand the expected content format and layout, providing structure and clarity before actual content is added.
 
+<br/>
+
 ## Variants
 
 <img src="../../assets/images/components/placeholder-variants.jpg" alt="placeholder-variants" width="752"/>
@@ -12,6 +14,3 @@ A placeholder is a visual or textual indicator in a design or interface that sho
 4. <b>Image 16:9:</b> The 16:9 image placeholder is designed to accommodate images with a widescreen aspect ratio of 16:9.
 5. <b>Image 4:3:</b> The 4:3 image placeholder is specifically designed for images with the standard 4:3 aspect ratio. It provides a rectangular frame that aligns with these dimensions, making it well-suited for presenting content in the traditional 4:3 ratio.
 6. <b>Image 1:1:</b> The 1:1 image placeholder is crafted for square images with a balanced 1:1 aspect ratio. It features a perfect square frame, ensuring suitability for content or images that benefit from a harmonious, square composition.
-
-
-___
