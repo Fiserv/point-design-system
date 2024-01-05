@@ -8,9 +8,9 @@ The content switcher allows users to toggle between multiple sections or content
 
 <img src="../../assets/images/components/contentswitcher-variants.jpg" alt="contentswitcher-variants" width="752"/>
 
-1. <b>Small:</b>
-2. <b>Regular:</b>
-3. <b>Large:</b>
+1. <b>Small</b>
+2. <b>Regular</b>
+3. <b>Large</b>
 
 </br>
 
@@ -18,10 +18,10 @@ The content switcher allows users to toggle between multiple sections or content
 
 <img src="../../assets/images/components/contentswitcher-states.jpg" alt="contentswitcher-states" width="752"/>
 
-1. <b>Default:</b>
-2. <b>Hover:</b>
-3. <b>Active:</b>
-4. <b>Disabled:</b>
+1. <b>Default</b>
+2. <b>Hover</b>
+3. <b>Active</b>
+4. <b>Disabled</b>
 
 </br>
 
