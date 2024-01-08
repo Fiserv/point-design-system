@@ -17,11 +17,11 @@ A button triggers an event or action, letting users know what will happen next.
 
 <img src="../../assets/images/components/button-states.jpg" alt="button-states" width="752"/>
 
-1. <b>Default:</b> The button displays standard content and styling, offering a baseline representation of the component.
-2. <b>Hover:</b> The button dynamically responds to user interaction with a slight elevation and color change, creating an engaging and interactive experience.
-3. <b>Focus:</b> The button promptly responds to user interaction by displaying a prominent orange outline when users click or press on it.
-4. <b>Disabled:</b> The button appears non-interactive, indicated by a subdued light orange/gray color.
-5. <b>Loading:</b> The button displays a spinner or progress indicator with a subtle color change (light orange) to signify ongoing processing, temporarily making it non-interactive.
+1. <b>Default</b> 
+2. <b>Hover</b>
+3. <b>Focus</b> 
+4. <b>Disabled</b>
+5. <b>Loading</b>
 
 </br>
 
@@ -40,5 +40,6 @@ A button triggers an event or action, letting users know what will happen next.
 
 <img src="../../assets/images/components/button-anatomy.jpg" alt="button-anatomy" width="752"/>
 
-1. <b>Button with Left Icon:</b> Features an icon or symbol positioned on the left side of the button's text label. This design is often used to emphasize the action or function associated with the button, providing users with a visual cue before they read the label. It enhances recognition and usability, making it clear what the button does based on the accompanying icon.
-2. <b>Button with Right Icon:</b> Places the icon or symbol on the right side of the button's text label. This layout is commonly employed to reinforce the button's action after users have read the label. It serves as a supplementary visual indicator to support the text and helps in conveying the specific function or intent of the button more effectively.
+1. <b>Text label</b>
+2. <b>Container</b>
+3. <b>Icon(optional)</b>
