@@ -17,19 +17,17 @@ An accordion is a vertically stacked list of headers that reveals or hides assoc
 
 <img src="../../assets/images/components/accordion-states.jpg" alt="accordion-states" width="752"/>
 
-1. <b>Default:</b> The standard appearance of the accordion item in its initial state.
-2. <b>Hover:</b> The visual representation of the accordion item when a user hovers their cursor over it, providing interactive feedback.
-3. <b>Focus:</b> The accordion item's appearance when it is in focus, typically used for keyboard navigation, highlighting the selected element.
-4. <b>Disabled:</b> The visually subdued state of the accordion item when it is inactive or not interactive.
-5. <b>Skeleton:</b> A simplified and stylized representation of the accordion item, often used as a placeholder to indicate loading or to enhance the user experience during content retrieval.
+1. <b>Default</b>
+2. <b>Hover</b> 
+3. <b>Focus</b>
+4. <b>Disabled</b>
+5. <b>Skeleton</b>
 
 </br>
 
 ## Anatomy
 
 <img src="../../assets/images/components/accordion-anatomy.jpg" alt="accordion-anatomy" width="752"/>
-
-Accordion is ideal for breaking down long-form or complex content into digestible chunks. It is also well-suited for mobile sites as it reduces the amount a user has to scroll.
 
 1. <b>Collapsed Accordion panel:</b> Sections of content associated with each header. By default, panels are typically closed and revealed when a user clicks on a header or icon in the menu.
 2. <b>Expanded Accordion panel:</b> Sections of content associated with each header.  These should be brief but descriptive enough to indicate what the reader can expect to learn more about by clicking.
