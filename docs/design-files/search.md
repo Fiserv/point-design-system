@@ -30,9 +30,9 @@ Search enables users to enter a word or phrase to find relevant content or desti
 
 <img src="../../assets/images/components/search-anatomy.jpg" alt="search-anatomy" width="752"/>
 
-1. <b>Search icon:</b> Represents a search field. The magnifying glass icon universally signifies a search feature.
-2. <b>Placeholder text:</b> Provides a brief hint describing the expected value in a search field.
-3. <b>Search field:</b> The area where users input their search queries.
+1. <b>Search icon</b>
+2. <b>Placeholder text</b>
+3. <b>Search field</b> The area where users input their search queries.
 4. <b>Previous and next icon buttons:</b> Allow users to navigate backward and forward through their entered keywords.
 5. <b>Search button with icon</b>
 6. <b>Search button with text</b>
