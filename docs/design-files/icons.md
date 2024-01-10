@@ -12,13 +12,6 @@ You can [find our icon collection](https://github.com/Fiserv/design-center/tree/
 </br>
 
 <span style="color:#333333">
-**No access to Github Repository?:**
-</span>   
-No problem. You can <a href="../../assets/images/icon/point-icon.zip" target="_blank" download>download our icon collection</a>.
-
-</br>
-
-<span style="color:#333333">
 **Find the icons by usage:**
 </span>   
 All icons are organized by usage for your convenience.
