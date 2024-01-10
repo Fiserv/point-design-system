@@ -20,11 +20,11 @@ The checkbox is a user interface element that enables users to select or deselec
 
 <img src="../../assets/images/components/checkbox-states.jpg" alt="checkbox-states" width="752"/>
 
-1. <b>Default:</b> The 'Default' state of the checkbox design component represents its initial appearance, with clear visual cues for user interaction.
-2. <b>Hover:</b> The 'Hover' state of the checkbox design component activates when a user hovers over it, often resulting in visual feedback like a color change or underline to indicate interactivity.
-3. <b>Focus:</b> The 'Focused' state of the checkbox design component occurs when a user interacts with it, typically via keyboard navigation. It provides a clear visual indicator, such as a border or outline, to show the element currently in focus.
-4. <b>Disabled:</b> The 'Disabled' state of the checkbox design component signifies an inactive or non-selectable option, often displayed with a muted appearance.
-5. <b>Group:</b> The 'Group' state of the checkbox design component refers to a collection of checkboxes that are related or part of a common selection group. It ensures that the checkboxes within the group interact together, allowing users to make multiple selections.
+1. <b>Default</b>
+2. <b>Hover</b>
+3. <b>Focus</b>
+4. <b>Disabled</b>
+5. <b>Group</b>
 
 </br>
 

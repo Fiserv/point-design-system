@@ -15,7 +15,7 @@ A link is a clickable element in a user interface that appears as text, usually 
 
 ## States
 
-<img src="../../assets/images/components/link-states.jpg" alt="inpage-nav-states" width="752"/>
+<img src="../../assets/images/components/link-states.jpg" alt="link-states" width="752"/>
 
 1. <b>Default</b>
 2. <b>Hover</b>
@@ -25,9 +25,7 @@ A link is a clickable element in a user interface that appears as text, usually 
 
 ## Anatomy
 
-<img src="../../assets/images/components/link-anatomy.jpg" alt="inpage-nav-anatomy" width="752"/>
-
-The anatomy of an in-page navigation component includes elements such as links, buttons, menus, and icons that facilitate seamless user movement within a website or application.
+<img src="../../assets/images/components/link-anatomy.jpg" alt="link-anatomy" width="752"/>
 
 1. <b>Label:</b> Communicates what is being linked to.
-2. <b>Icon:</b> Indicates what the action is.
+2. <b>Icon(optional):</b> Indicates what the action is.

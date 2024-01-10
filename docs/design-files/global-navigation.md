@@ -11,9 +11,9 @@ Users rely on the global header to navigate and orient themselves in your UI. Th
 1. <b>General</b> - Desktop double lines
 2. <b>General</b> - Desktop single line
 3. <b>Developer Studio</b> - Desktop
-4. <b>General</b> - Mobile
-5. <b>Skeleton</b> - Desktop double lines
-6. <b>Skeleton</b> - Desktop single line
+4. <b>Skeleton</b> - Desktop double lines
+5. <b>Skeleton</b> - Desktop single line
+6. <b>Skeleton</b> - Mobile
 
 </br>
 
