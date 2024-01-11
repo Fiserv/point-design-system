@@ -28,43 +28,44 @@
 # the delivery of this work
 ################################################################################
 header:
-  productName: REPLACEME
-  productionDescription: REPLACEME
-  whoIsItFor: REPLACEME
-  image: 
-    link: "/assets/images/Fiserv_Logo.jpg"
-    altText: REPLACEME™
+  productionDescription: Point Design System by Fiserv reflects the unique needs and priorities of designing for a complex, business-focused environment. Point puts the user first, utilizing rigorous research into users’ needs and desires. It is laser-focused on real people.
+# getStarted: "docs/getting-started.md"
+benefits:
+  - title: User-Centered Efficiency
+    description: Point Design System by Fiserv is rooted in user-centric principles, with a focus on efficiency and productivity.
+  - title: Accelerate
+    description: Clarity and consistency are paramount in Point Design System. We prioritize clean design elements and maintain a consistent look and feel.
+  - title: Data-Driven Design
+    description: Point values data-driven decision-making, ensuring that our interfaces present information in a meaningful and actionable way. 
+guides:
+  - title: Getting access to Figma
+    description: Learn about how to get access to Point Design System Figma file. 
+    link: "docs/getting-started.mds"
 featuredFeatures:
-  - title: REPLACE ME
-    description:  REPLACE ME
-    tags: ["REPLACEME", "REPLACEME", "REPLACEME"]
-    bullets: ["REPLACEME", "REPLACEME" ]  
+  - title: Foundations
+    description:  Foundations are the core of Point Design System, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on iconography, typography, layout, and structure.
+    groupName: Group Title
+    featured: true
     relatedDocs:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: ./docs/REPLACE-ME1.md
+        link: "docs/design-files/foundations.md"
+  - title: Components
+    description:  Components are the reusable building blocks of Point Design System. Each component fulfills a specific interaction or UI need and has been intentionally crafted to seamlessly work together, creating patterns and delivering intuitive user experiences.
+    groupName: Group Title
+    featured: true
+    relatedDocs:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: ./docs/REPLACE-ME2.md
+        link: "docs/design-files/components.md"
+  - title: Patterns
+    description:  Patterns are reusable combinations of components and templates that address common user issues. These best practice solutions assist users in achieving their objectives and contribute to a consistent user experience.
+    groupName: Group Title
+    featured: true
+    relatedDocs:
       - relatedDoc: 
         title: REPLACEME
         description: REPLACEME
-        link: ./docs/REPLACE-ME3.md
-    relatedAPIs:
-      - relatedAPI: 
-        title: REPLACEME
-        description: REPLACEME
-        type: "patch"        
-        path: "/v1/REPLACEME1"
-      - relatedAPI: 
-        title: REPLACEME
-        description: REPLACEME
-        type: "post"        
-        path: "/v1/REPLACEME2"
-      - relatedAPI: 
-        title: REPLACEME
-        description: REPLACEME
-        type: "get"        
-        path: "/v1/REPLACEME3"
+        link: "docs/design-files/patterns.md"
