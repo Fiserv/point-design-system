@@ -17,8 +17,7 @@ A breadcrumb serves as a horizontal navigational aid. It displays a sequence of 
 
 ## Anatomy
 
-<img src="../../assets/images/components/breadcrumb-variants.jpg" alt="breadcrumb-states" width="752"/>
+<img src="../../assets/images/components/breadcrumb-anatomy.jpg" alt="breadcrumb-states" width="752"/>
 
-1. <b>Link Sequence:</b> Breadcrumbs consist of a sequence of clickable links that represent the hierarchical path to the current page.
-2. <b>Separators:</b> Separators, such as arrows (->), slashes (/), or dashes (-), visually divide the links, aiding in the hierarchical representation.
-3. <b>Interactive States:</b> Breadcrumbs have distinct styles for different states, including 'Default,' 'Hover,' and 'Active,' ensuring user interaction is clear and responsive.
+1. <b>Page link:</b> Directs users to the parent-level page.
+2. <b>Separator:</b> Clearly distinguishes between each page.
