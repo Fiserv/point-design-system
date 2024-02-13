@@ -10,8 +10,8 @@
   "product": {
     "featured": true,
     "logoURL": "https://raw.githubusercontent.com/Fiserv/Developer-Portal-Tenant-API/develop/assets/images/Portal_Logo.png",
-    "description": "To onboard properly into the Developer Studio as a tenant each product must support these APIs so that we can retrieve product specific API specifications and documentation.",
-    "longDescription":"To onboard properly into the Developer Studi as a tenant each product must support these APIs so that we can retrieve product specific API specifications and documentation.",
+    "description": "All-in-one-place for designers at Fiserv, including Point Design System, patterns, brand standards and supporting documentation.",
+    "longDescription":"All-in-one-place for designers at Fiserv, including Point Design System, patterns, brand standards and supporting documentation.",
     "apiSpecification": "/v1/apis/DesignCenter",
     "layout": "/v1/layouts/DesignCenter",
     "documentation": "/v1/docs/DesignCenter",
