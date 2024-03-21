@@ -40,7 +40,7 @@ benefits:
 guides:
   - title: Getting access to Figma
     description: Learn about how to get access to Point Design System Figma file. 
-    link: "docs/getting-started.mds"
+    link: "docs/getting-started.md"
 featuredFeatures:
   - title: Foundations
     description:  Foundations are the core of Point Design System, encapsulating the brand's principles and distinctions, along with the essential visual elements required to craft engaging end-to-end user experiences. This encompasses guidance on iconography, typography, layout, and structure.
