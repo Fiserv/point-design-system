@@ -48,6 +48,89 @@
         link: docs/design-files/elevation.md
       - title: Logo
         link: docs/design-files/logo.md
+        - sections:
+    - title: Components
+      sections:
+      - title: Overview
+        link: docs/design-files/components.md
+      - title: Accordion
+        link: docs/design-files/accordion.md
+      - title: Breadcrumb
+        link: docs/design-files/breadcrumb.md
+      - title: Button
+        link: docs/design-files/button.md
+  #   - title: Carousel
+  #     link: docs/design-files/carousel.md
+      - title: Checkbox
+        link: docs/design-files/checkbox.md
+      - title: Content Switcher
+        link: docs/design-files/content-switcher.md
+      - title: Divider
+        link: docs/design-files/divider.md
+      - title: Dropdown
+        link: docs/design-files/dropdown.md
+      - title: In-page Navigation
+        link: docs/design-files/inpage-navigation.md
+      - title: Link
+        link: docs/design-files/link.md
+      - title: Modal
+        link: docs/design-files/modal.md
+      - title: Notification
+        link: docs/design-files/notification.md
+      - title: Pagination
+        link: docs/design-files/pagination.md
+      - title: Placeholder
+        link: docs/design-files/placeholder.md
+      - title: Radio
+        link: docs/design-files/radio.md
+      - title: Search
+        link: docs/design-files/search.md
+      - title: Tabs
+        link: docs/design-files/tabs.md
+      - title: Tag
+        link: docs/design-files/tag.md
+      - title: Text Area
+        link: docs/design-files/text-area.md
+      - title: Text Input
+        link: docs/design-files/text-input.md
+      - title: Toggle
+        link: docs/design-files/toggle.md
+      - title: Tooltip
+        link: docs/design-files/tooltip.md
+  - sections:
+    - title: Patterns
+      sections:
+      - title: Overview
+        link: docs/design-files/patterns.md
+      - title: Card
+        link: docs/design-files/card.md
+      - title: Charts
+        link: docs/design-files/charts.md
+      - title: Code Snippet
+        link: docs/design-files/code-snippet.md
+      - title: Footer
+        link: docs/design-files/footer.md
+      - title: Global Navigation
+        link: docs/design-files/global-navigation.md
+      - title: Mega Menu
+        link: docs/design-files/mega-menu.md
+      - title: Progress Indicator
+        link: docs/design-files/progress-indicator.md
+      - title: Side Navigation
+        link: docs/design-files/side-navigation.md
+      - title: Table
+        link: docs/design-files/table.md
+  - sections:
+    - title: Icons
+      link: docs/design-files/icons.md
+  #- sections:
+  #  - title: Contributing
+  #    link: docs/design-files/contributing.md
+  - sections:
+    - title: Release notes
+      sections:
+      - title: January 2024
+        link: docs/release-notes/2024/jan.md
 - sections:
   - title: Foundations
     sections:
