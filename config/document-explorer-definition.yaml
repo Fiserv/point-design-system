@@ -93,7 +93,7 @@
         link: docs/design-files/elevation.md
       - title: Logo
         link: docs/design-files/logo.md
-  - sections:
+- sections:
   - title: Foundations
     sections:
     - title: Overview
