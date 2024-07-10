@@ -62,6 +62,7 @@
         link: docs/design-files/elevation.md
       - title: Logo
         link: docs/design-files/logo.md
+- sections:
   - title: Point Design System
     sections:
     - title: Foundations
