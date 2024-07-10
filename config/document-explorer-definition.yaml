@@ -48,6 +48,16 @@
         link: docs/design-files/elevation.md
       - title: Logo
         link: docs/design-files/logo.md
+    sections:
+    - title: Components
+        - title: Overview
+        link: docs/design-files/components.md
+        - title: Accordion
+        link: docs/design-files/accordion.md
+        - title: Breadcrumb
+        link: docs/design-files/breadcrumb.md
+        - title: Button
+        link: docs/design-files/button.md
 - sections:
   - title: Foundations
     sections:
