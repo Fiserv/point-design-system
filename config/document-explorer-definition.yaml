@@ -48,12 +48,12 @@
         link: docs/design-files/elevation.md
       - title: Logo
         link: docs/design-files/logo.md
-    - title: Foundations
+    - title: Components
       sections:
       - title: Overview
-        link: docs/design-files/foundations.md
-      - title: Color
-        link: docs/design-files/color.md
+        link: docs/design-files/components.md
+      - title: Accordion
+        link: docs/design-files/accordion.md
       - title: Typography
         link: docs/design-files/typography.md
       - title: Spacing
@@ -69,14 +69,14 @@
       link: docs/design-files/foundations.md
     - title: Color
       link: docs/design-files/color.md
-    - title: Typography
-      link: docs/design-files/typography.md
-    - title: Spacing
-      link: docs/design-files/spacing.md
-    - title: Elevation
-      link: docs/design-files/elevation.md
-    - title: Logo
-      link: docs/design-files/logo.md
+    - title: Breadcrumb
+      link: docs/design-files/breadcrumb.md
+    - title: Button
+      link: docs/design-files/button.md
+    - title: Checkbox
+      link: docs/design-files/checkbox.md
+    - title: Content Switcher
+      link: docs/design-files/content-switcher.md
 - sections:
   - title: Components
     sections:
