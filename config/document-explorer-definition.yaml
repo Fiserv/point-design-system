@@ -62,29 +62,37 @@
         link: docs/design-files/elevation.md
       - title: Logo
         link: docs/design-files/logo.md
-    - title: Patterns
+  - title: Point Design System
+    sections:
+    - title: Foundations
       sections:
       - title: Overview
-        link: docs/design-files/patterns.md
-      - title: Card
-        link: docs/design-files/card.md
-      - title: Charts
-        link: docs/design-files/charts.md
-      - title: Code Snippet
-        link: docs/design-files/code-snippet.md
-      - title: Footer
-        link: docs/design-files/footer.md
-      - title: Global Navigation
-        link: docs/design-files/global-navigation.md
-      - title: Mega Menu
-        link: docs/design-files/mega-menu.md
-      - title: Progress Indicator
-        link: docs/design-files/progress-indicator.md
-      - title: Side Navigation
-        link: docs/design-files/side-navigation.md
-      - title: Table
-        link: docs/design-files/table.md
-- sections:
+        link: docs/design-files/foundations.md
+      - title: Color
+        link: docs/design-files/color.md
+      - title: Typography
+        link: docs/design-files/typography.md
+      - title: Spacing
+        link: docs/design-files/spacing.md
+      - title: Elevation
+        link: docs/design-files/elevation.md
+      - title: Logo
+        link: docs/design-files/logo.md
+    - title: Components
+      sections:
+      - title: Overview
+        link: docs/design-files/components.md
+      - title: Accordion
+        link: docs/design-files/accordion.md
+      - title: Typography
+        link: docs/design-files/typography.md
+      - title: Spacing
+        link: docs/design-files/spacing.md
+      - title: Elevation
+        link: docs/design-files/elevation.md
+      - title: Logo
+        link: docs/design-files/logo.md
+  - sections:
   - title: Foundations
     sections:
     - title: Overview
