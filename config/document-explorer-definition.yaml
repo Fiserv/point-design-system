@@ -32,20 +32,22 @@
 # - title: Getting Started
 #   link: docs/getting-started.md
 - sections:
-  - title: Foundations
+  - title: Pixel Design System
     sections:
-    - title: Overview
-      link: docs/design-files/foundations.md
-    - title: Color
-      link: docs/design-files/color.md
-    - title: Typography
-      link: docs/design-files/typography.md
-    - title: Spacing
-      link: docs/design-files/spacing.md
-    - title: Elevation
-      link: docs/design-files/elevation.md
-    - title: Logo
-      link: docs/design-files/logo.md
+    - title: Foundations
+      sections:
+      - title: Overview
+        link: docs/design-files/foundations.md
+      - title: Color
+        link: docs/design-files/color.md
+      - title: Typography
+        link: docs/design-files/typography.md
+      - title: Spacing
+        link: docs/design-files/spacing.md
+      - title: Elevation
+        link: docs/design-files/elevation.md
+      - title: Logo
+        link: docs/design-files/logo.md
 - sections:
   - title: Components
     sections:
