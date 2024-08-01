@@ -497,3 +497,40 @@ The tokens should function as a common language during the product cycle. It is 
 | `$skeleton_element`             | '$gray_400'           | '$gray_800'            |
 | `$skeleton_background`          | '$gray_200'           | 'gray_900'             |
 
+## Pixel's palette token architecture
+
+### Red
+
+| Token name            | Background            | Foreground             | WCAG Ratio           |
+| :-------------------- | :-------------------- | :--------------------- | :-------------------- 
+| `$red_900`            | `#C00000`               | `$white`             | 06.47:1              |
+| `$red_800`            | `#CE1A12`               | `$white`             | 05.55:1              |
+| `$red_700`            | `#DB231B`               | `$white`             | 04.92:1              |
+| `$red_600`            | `#ED3020`               | `$black`             | 05.04:1              |
+| `$red_500`            | `#FB3C1E`               | `$black`             | 05.76:1              |
+| `$red_400`            | `#F74D40`               | `$black`             | 06.09:1              |
+| `$red_300`            | `#EE6F68`               | `$black`             | 07.01:1              |
+| `$red_200`            | `#F69892`               | `$black`             | 09.82:1              |
+| `$red_100`            | `#FFCCCE`               | `$black`             | 14.78:1              |
+| `$red_050`            | `#FFEAED`               | `$black`             | 18.24:1              |
+| `$red_A10`            | `#FFF7F8`               | `$black`             | 19.91:1              |
+
+### Blue
+
+| Token name            | Background            | Foreground             | WCAG Ratio           |
+| :-------------------- | :-------------------- | :--------------------- | :-------------------- 
+| `$blue_900`           | `#29479E`               | `$white`             | 08.43:1              |
+| `$blue_800`           | `#3165BE`               | `$white`             | 05.62:1              |
+| `$blue_700`           | `#3676D0`               | `$white`             | 04.50:1              |
+| `$blue_600`           | `#3C88E3`               | `$white`             | 03.60:1              |
+| `$blue_500`           | `#3F96F1`               | `$white`             | 03.06:1              |
+| `$blue_400`           | `#53A5F4`               | `$black`             | 08.05:1              |
+| `$blue_300`           | `#6EB5F6`               | `$black`             | 09.60:1              |
+| `$blue_200`           | `#96CAF9`               | `$black`             | 12.11:1              |
+| `$blue_100`           | `#BEDEFB`               | `$black`             | 15.03:1              |
+| `$blue_050`           | `#E4F2FD`               | `$black`             | 18.41:1              |
+| `$blue_A10`           | `#F9FCFF`               | `$black`             | 20.39:1              |
+
+
+
+
