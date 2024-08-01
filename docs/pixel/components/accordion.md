@@ -4,8 +4,6 @@ The accordion component delivers large amounts of content in a small space throu
 
 Accordions can make information processing and discovering more effective. However, it does hide content from users and it’s important to account for a user not noticing or reading all the included content. If a user is likely to read all of the content, then don’t use an accordion as it adds the burden of an extra click; instead use a full scrolling page with normal headers.
 
-</br>
-
 ## Usage
 
 ### When to use
@@ -60,84 +58,84 @@ Below is the token architecture color build of the components. The token can be 
 
 ### Color
 
-| State      | Element   | Property         | Token name         |
-| ---------- | --------- | ---------------- | ------------------ |
-| Collasped  | Container | Background Color | '$layer_1'         |
-|            |           | Border Color     | '$border_subtle_1' |
-|            | Label     | Text Color       | '$text_secondary'  |
-|            | Icon      | SVG Color        | '$icon_secondary'  |
-| Hover      | Container | Background Color | '$layer_hover_1'   |
-|            |           | Border Color     | '$border_subtle_1' |
-|            | Label     | Text Color       | '$text_primary'    |
-|            | Icon      | SVG Color	    | '$icon_primary'    |
-| Disabled   | Container | Background Color | '$layer_disabled_1'|
-|            |           | Border Color	    | '$border_subtle_1' |
-|            | Label     | Text Color       | '$text_disabled'   |
-|            | Icon      | SVG Color        | '$icon_disabled'   |
-| Expanded   | Container | Background Color | '$layer_1'         |
-|            |           | Border Color     |                    |
-|            | Label     | Text Color       | '$text_primary'    |
-|            | Icon      | SVG Color        | '$icon_primary'    |
+| State                      | Element                    | Property                   | Token name                 |
+| :------------------------- | :------------------------- | :------------------------- | :------------------------- |
+| Collasped                  | Container                  | Background Color           | `$layer_1`                 |
+|                            |                            | Border Color               | `$border_subtle_1`         | 
+|                            | Label                      | Text Color                 | `$text_secondary`          |
+|                            | Icon                       | SVG Color                  | `$icon_secondary`          |
+| Hover                      | Container                  | Background Color           | `$layer_hover_1`           |
+|                            |                            | Border Color               | `$border_subtle_1`         |
+|                            | Label                      | Text Color                 | `$text_primary`            |
+|                            | Icon                       | SVG Color	               | `$icon_primary`            |
+| Disabled                   | Container                  | Background Color           | `$layer_disabled_1`        |
+|                            |                            | Border Color	           | `$border_subtle_1`         |
+|                            | Label                      | Text Color                 | `$text_disabled`           |
+|                            | Icon                       | SVG Color                  | `$icon_disabled`           |
+| Expanded                   | Container                  | Background Color           | `$layer_1`                 |
+|                            |                            | Border Color               |                            |
+|                            | Label                      | Text Color                 | `$text_primary`            |
+|                            | Icon                       | SVG Color                  | `$icon_primary`            |
 
 ### Typography
 
 All accordion titles are set in sentence case.
 
-| State      | Variant    | Font size | Font weight | Token name            |
-| ---------- | ---------- | --------- | ----------- | --------------------- | 
-| Collapsed  | Small      | 14px      | 400 Regular | '$h6_compact_regular' |
-|            | Medium     | 16px      | 400 Regular | '$h5_compact_regular' |
-|            | Large      | 20px      | 400 Regular | '$h4_compact_regular' |
-| Expanded   | Small      | 14px      | 700 Bold    | '$h6_compact_bold'    |
-|            | Medium     | 16px      | 700 Bold    | '$h5_compact_bold'    |
-|            | Large      | 20px      | 700 Bold    | '$h4_compact_bold'    |
+| State                 | Variant                | Font size | Font weight             | Token name                 |
+| :-------------------- | :--------------------  | :-------- | :---------------------- | :------------------------- | 
+| Collapsed             | Small                  | 14px      | 400 Regular             | `$h6_compact_regular`      |
+|                       | Medium                 | 16px      | 400 Regular             | `$h5_compact_regular`      |
+|                       | Large                  | 20px      | 400 Regular             | `$h4_compact_regular`      |
+| Expanded              | Small                  | 14px      | 700 Bold                | `$h6_compact_bold`         |
+|                       | Medium                 | 16px      | 700 Bold                | `$h5_compact_bold`         |
+|                       | Large                  | 20px      | 700 Bold                | `$h4_compact_bold`         |
 
 ### Token Architecture
 
 | Token name                 | Description                                            |
-| -------------------------- | ------------------------------------------------------ |
-| '$accordion_small'         | Defines height for the **small** variant.              |
-| '$accordion_medium'        | Defines height for the **medium** variant.             |
-| '$accordion_large'         | Defines height for the **large** variant.              |
-| '$accordion_padding'       | Defines **padding** for the component.                 |
-| '$accordion_margin'        | Defines **margin** for the component.                  |
-| '$accordion_border'        | Defines **border** weight for the accordion component. |
-| '$accordion_border_radius' | Defines **border radius** for the component.           |
+| :------------------------- | :----------------------------------------------------- |
+| `$accordion_small`         | Defines height for the **small** variant.              |
+| `$accordion_medium`        | Defines height for the **medium** variant.             |
+| `$accordion_large`         | Defines height for the **large** variant.              |
+| `$accordion_padding`       | Defines **padding** for the component.                 |
+| `$accordion_margin`        | Defines **margin** for the component.                  |
+| `$accordion_border`        | Defines **border** weight for the accordion component. |
+| `$accordion_border_radius` | Defines **border radius** for the component.           |
 
 ### Structure
 
 There is no max-height for an open panel, but an accordion may scroll if constrained by vertical space. The width of an accordion varies based on the content, layout, and page design. The icon used in the header is a chevron.
 
-| State      | Element              | Property             | Size | Token name                 |
-| ---------- | -------------------- | -------------------- | ---- | -------------------------- |
-| Collasped  | Container            | Border Bottom        | 1px  | '$accordion_border'        |
-|            |                      | Padding Right x Left | 16px | '$accordion_padding'       |
-|            |                      | Border Radius        | 4px  | '$accordion_border_radius' |
-|            | Chevron Down - Right | Margin Left          | 8px  | '$accordion_margin'        |
-|            | Chevron Down - Left  | Margin Right         | 8px  | '$accordion_margin'        |
-|            | Content Panel        | Padding Right x Left | 16px | '$accordion_padding'       |
-|            |                      | Padding Top x Bottom | 16px | '$accordion_padding'       |
-|            |                      | Border Bottom        | 1px  | '$accordion_border'        |
-| Expanded   | Container            | Border Bottom        |      |                            |
-|            |                      | Padding Right x Left | 16px | '$accordion_padding'       |
-|            |                      | Border Radius        | 4px  | '$accordion_border_radius' |
-|            | Chevron Down - Right | Margin Left          | 8px  | '$accordion_margin'        |
-|            | Chevron Down - Left  | Margin Right         | 8px  | '$accordion_margin'        |
-|            | Content Panel        | Padding Right x Left | 16px | '$accordion_padding'       |
-|            |                      | Padding Top x Bottom | 16px | '$accordion_padding'       |
-|            |                      | Border Bottom        | 1px  | '$accordion_border'        |
-| Focus      | Container            | Border               | 1px  | '$accordion_border'        |
+| State                | Element               | Property                | Size      | Token name                  |
+| :--------------------| :-------------------- | :---------------------- | :-------- | :-------------------------- |
+| Collasped            | Container             | Border Bottom           | 1px       | `$accordion_border`         |
+|                      |                       | Padding Right x Left    | 16px      | `$accordion_padding`        |
+|                      |                       | Border Radius           | 4px       | `$accordion_border_radius`  |
+|                      | Chevron Down - Right  | Margin Left             | 8px       | `$accordion_margin`         |
+|                      | Chevron Down - Left   | Margin Right            | 8px       | `$accordion_margin`         |
+|                      | Content Panel         | Padding Right x Left    | 16px      | `$accordion_padding`        |
+|                      |                       | Padding Top x Bottom    | 16px      | `$accordion_padding`        |
+|                      |                       | Border Bottom           | 1px       | `$accordion_border`         |
+| Expanded             | Container             | Border Bottom           |           |                             |
+|                      |                       | Padding Right x Left    | 16px      | `$accordion_padding`        |
+|                      |                       | Border Radius           | 4px       | `$accordion_border_radius`  |
+|                      | Chevron Down - Right  | Margin Left             | 8px       | `$accordion_margin`         |
+|                      | Chevron Down - Left   | Margin Right            | 8px       | `$accordion_margin`         |
+|                      | Content Panel         | Padding Right x Left    | 16px      | `$accordion_padding`        |
+|                      |                       | Padding Top x Bottom    | 16px      | `$accordion_padding`        |
+|                      |                       | Border Bottom           | 1px       | `$accordion_border`         |
+| Focus                | Container             | Border                  | 1px       | `$accordion_border`         |
 
 ### Sizing
 
-| Variant | Element   | Size              | Token name          |
-| ------- | --------- | ----------------- | ------------------- |
-| Small   | Container | (min-height:40px) | '$accordion_small'  |
-|         | Icon      | 20px              | '$icon_small'       |
-| Medium  | Container | (min-height:48px) | '$accordion_medium' |
-|         | Icon      | 24px              | '$icon_medium'      |
-| Large   | Container | (min-height:56px) | '$accordion_large'  |
-|         | Icon      | 20px              | '$icon_large'       |
+| Variant                    | Element                   | Size                       | Token name                 |
+| :------------------------- | :-------------------------| :------------------------- | :------------------------- |
+| Small                      | Container                 | (min-height:40px)          | '$accordion_small'         |
+|                            | Icon                      | 20px                       | '$icon_small'              |
+| Medium                     | Container                 | (min-height:48px)          | '$accordion_medium'        |
+|                            | Icon                      | 24px                       | '$icon_medium'             |
+| Large                      | Container                 | (min-height:56px)          | '$accordion_large'         |
+|                            | Icon                      | 20px                       | '$icon_large'              |
 
 ## Accessibility
 
