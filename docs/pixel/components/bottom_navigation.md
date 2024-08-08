@@ -18,6 +18,8 @@ Bottom navigation bars display three to five destinations at the bottom of a scr
 - Don’t use more than five destinations. For those cases, try tabs or a navigation drawer
 - Combining bottom navigation and tabs may cause confusion, as their relationship to the content may be unclear. Tabs share a common subject, whereas bottom navigation destinations are top-level and disconnected from each other.
 
+<img src="../images/components/bottom_navigation/bottom_navigation_usage_when_not_to_use.png" alt="Bottom Navigation Usage When not to Use"/>
+
 ### Anatomy
 
 1. Selection indicator
@@ -26,9 +28,13 @@ Bottom navigation bars display three to five destinations at the bottom of a scr
 4. Numbered badge (optional)
 5. Non-numbered badge (optional)
 
+<img src="../images/components/bottom_navigation/bottom_navigation_anatomy.png" alt="Bottom Navigation Usage Anatomy"/>
+
 ### Container
 
 Navigation bar containers hold all elements making up a destination, including icon, label text, and active indicator. The container is divided into equal-width columns, one for each destination. The width of each destination can be calculated by taking the width of the navigation bar and dividing it by the number of destinations.
+
+<img src="../images/components/bottom_navigation/bottom_navigation_usage_container.png" alt="Bottom Navigation Usage Container"/>
 
 ### Active indicator
 
@@ -36,6 +42,8 @@ The active indicator is a background shape communicating which destination of th
 
 - User the active indicator only for active destinations.
 - Do not us the active indicator for more than one destination at a time.
+
+<img src="../images/components/bottom_navigation/bottom_navigation_usage_active_indicator.png" alt="Bottom Navigation Usage Active Indicator"/>
 
 ### Label text
 
@@ -52,11 +60,15 @@ Icons in navigation bars can display badges in their upper right corners. [Badge
 - A non-numbered badge uses only shape to indicate a status change or new notification.
 - A numbered badge displays the value within a container to indicate a quantifiable status change related to a destination.
 
+<img src="../images/components/bottom_navigation/bottom_navigation_usage_badges.png" alt="Bottom Navigation Usage Badges"/>
+
 ### Placement
 
 - The bottom navigation bar is easy to reach on a handheld mobile device.
 - When used, the bottom navigation bar appears at the bottom of every screen.
 - Bottom navigation bar destinations should be of equal importance.
+
+<img src="../images/components/bottom_navigation/bottom_navigation_usage_placement.png" alt="Bottom Navigation Usage Placement"/>
 
 ### Elevation
 
@@ -153,5 +165,7 @@ Below is the token architecture color build of the components. The token can be 
 | Icon                  | Height                  | 20px      |                             |
 |                       | Width                   | 20px      |                             |
 |                       | Margin Bottom           | 4px       |                             |
+
+<img src="../images/components/bottom_navigation/bottom_navigation_style_padding.png" alt="Bottom Navigation Style Padding"/>
 
 
