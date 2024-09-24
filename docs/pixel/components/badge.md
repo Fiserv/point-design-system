@@ -26,10 +26,14 @@ Like a button, a badge indicator’s text label or icon is the most important el
 2. Icon/object
 3. Shape without number
 
+<img src="../images/components/badge/badge_usage_anatomy.png" alt="Badge Usage Anatomy"/>
+
 ### Badge status with number
 Numbers are used in conjunction with a badge status when a count of new or updated items is available and it’s important for the user to know the number of updates.
 
 Badge status numbers can only be used in conjunction with the large icon button because with anything smaller, the icon gets covered. In very rare cases badge number may exceed two digits.
+
+<img src="../images/components/badge/badge_usage_numbers.png" alt="Badge Usage Numbers"/>
 
 ### References
 
@@ -118,6 +122,8 @@ Tag labels should be set in sentence case and should only have one word. However
 ### Development considerations
 
 While the sighted users can perceive red dot as a visual cue for new notification, it is equally important to present the same cue to visually challenged users. Authors need to provide off-screen additional context programmatically to the screen reader users as described on the avatar component.
+
+<img src="../images/components/badge/badge_accessibility.png" alt="Badge Usage Accessibility"/>
 
 - Learn more about Success Criteria 1.3.1 (Info and relationship - non text content).
 - Learn more about aria-label or aria-labelledby.
